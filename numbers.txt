@@ -1,0 +1,30 @@
+1
+2
+5
+12
+36
+96
+311
+886
+3000
+8944
+31192
+96138
+342562
+1083028
+3923351
+12656024
+46455770
+152325850
+565212506
+1878551444
+7033866580
+23645970022
+89222991344 # 4 minutes, 39s, 2 threads, my laptop, 33s, 190 threads, sardonis
+302879546290 # 6 m 30s, 2 threads, my laptop/4 minutes 35s, 54 threads, lovelace, 36s, 190 threads sardonis
+1150480017950 # 55 minutes, 54 threads, lovelace, 8m 30s, 190 threads, sardonis
+3938480377496 # 9m 59s, 190 threads, sardonis
+15047312553918 # 2h 44m, 190 threads, sardonis
+51892071842570 # 3h 13m, 190 threads, sardonis
+199274492098480 # 74h 33m, 190 threads, sardonis
+691680497233180 # 82h 7m, 190 threads, sardonis
