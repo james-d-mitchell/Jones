@@ -90,9 +90,7 @@ void count_even (size_t                           thread_id,
         while (*it != pos) {
           if (dyck_outer_memb[j][pos]) {
             nr_j++;
-            if (dyck_words[j][pos] > max) {
-              max = dyck_words[j][pos];
-            }
+            max = dyck_words[j][pos];
           } else if (dyck_outer_memb[i][pos]) {
             nr_i++;
             pos = dyck_words[i][dyck_words[j][pos]];
@@ -113,8 +111,9 @@ void count_even (size_t                           thread_id,
   }
   if (verbose) {
     mtx.lock();
-    std::cout << "Thread " << thread_id << " is finished, ";
-    timer.stop();
+    std::cout << "Thread " << thread_id << " is finished, elapsed time = ";
+    timer.print();
+    std::cout << std::endl;
     mtx.unlock();
   }
 }
@@ -148,9 +147,7 @@ void count_odd (size_t                            thread_id,
         while (pos != *it && pos != n) {
           if (dyck_outer_memb[j][pos]) {
             nr_j++;
-            if (dyck_words[j][pos] > max) {
-              max = dyck_words[j][pos];
-            }
+            max = dyck_words[j][pos];
           } else if (dyck_outer_memb[i][pos]) {
             nr_i++;
             pos = dyck_words[i][dyck_words[j][pos]];
@@ -173,8 +170,9 @@ void count_odd (size_t                            thread_id,
   }
   if (verbose) {
     mtx.lock();
-    std::cout << "Thread " << thread_id << " is finished, ";
-    timer.stop();
+    std::cout << "Thread " << thread_id << " is finished, elapsed time = ";
+    timer.print();
+    std::cout << std::endl;
     mtx.unlock();
   }
 }
@@ -228,21 +226,16 @@ int main(int argc, char* argv[]) {
   Timer timer;
   if (verbose) {
     std::cout << "Number of Dyck words is " << nr_dyck_words << std::endl;
-    std::cout << "Processing Dyck words, ";
+    std::cout << "Processing Dyck words, elapsed time = ";
     timer.start();
   }
 
-  dyck_words = std::vector<dyck_word_t>();
   dyck_words.reserve(nr_dyck_words);
-
-  dyck_outer = std::vector<dyck_word_t>();
   dyck_outer.reserve(nr_dyck_words);
-
-  dyck_outer_memb = std::vector<std::vector<bool>>();
   dyck_outer_memb.reserve(nr_dyck_words);
 
   dyck::integer mask;
-  std::stack<dyck_index_t> stack = std::stack<dyck_index_t>();
+  std::stack<dyck_index_t> stack;;
   dyck::integer w = dyck::minimum(n);
 
   for (dyck_index_t i = 0; i < nr_dyck_words; i++, w = dyck::next(w)) {
@@ -269,6 +262,7 @@ int main(int argc, char* argv[]) {
 
   if (verbose) {
     timer.print();
+    std::cout << std::endl;
     double mem = 0;
 
     for (auto x: dyck_outer) {
@@ -317,7 +311,7 @@ int main(int argc, char* argv[]) {
   }
 
   std::vector<size_t>      nr_idempotents(nr_threads, 0);
-  std::vector<std::thread> threads = std::vector<std::thread>();
+  std::vector<std::thread> threads;
 
   if ((deg / 2) * 2 == deg) { // deg is even
     for (size_t i = 0; i < nr_threads; i++) {
@@ -344,8 +338,9 @@ int main(int argc, char* argv[]) {
   }
 
   if (verbose) {
-    std::cout << "Total ";
-    timer.stop();
+    std::cout << "Total elapsed time = ";
+    timer.print();
+    std::cout << std::endl;
   }
   std::cout << out << std::endl;
   exit(0);
