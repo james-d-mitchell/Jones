@@ -1,37 +1,47 @@
-The number of idempotents in a Jones monoid
+Counting idempotents in a monoid of partitions
 =====
 
+The code in this project can be used to count idempotents in the Jones, Motzkin, and Kauffman monoids, and is based on [Idempotent statistics of the Motzkin and Jones monoids](http://arxiv.org/abs/1507.04838) by Igor Dolinka, James East, Athanasios Evangelou, Desmond FitzGerald, Nicholas Ham, James Hyde, and Nicholas Loughlin. 
+
+###Installation
+In your terminal of choice, perform the following steps to install this project.
+
+0. Clone this repository by doing 
+
+        git clone https://github.com/james-d-mitchell/Jones
+      
+    This will create a directory called `Jones` in whatever directory you were in to begin with.
+1. Type `cd Jones` to change directory into the `Jones` folder created in Step 1.
+2. Type 
+
+        git clone https://github.com/cassioneri/Dyck
+   
+   This will create a directory called `Dyck` inside the directory `Jones`. 
+3. Type `make` which will create executables for the three programs in this project `jones`, `motzkin` and `kauffman`. This project is written in C++11, and so you will require a C++ compiler compatible witht this standard.
+
+You might want to test that everything worked by doing `make test` which should display 
+
+    tst/jones.sh
+    tst/motzkin.sh
+    tst/kauffman.sh
+    
+but nothing further.
+
+### Counting idempotents
+
 If `n` is any positive integer, then
-```jones n```
+`jones n`
 returns the number of idempotents in the Jones monoid of degree `n`. If you
 want more information about what is going on, then do 
-```jones -v n```
+`jones -v n`
+`motzkin` and `kaufmann` can be used in the same way.
 
-`jones` is a multi-threaded C++ program.  You can alter then number of threads
-by changing the variable `nr_threads` in line 44 of `jones.cc` to any positive
-integer.  `jones` will then use `nr_threads + 1`  threads, regardless of the
+`jones`, `motzkin`, and `kauffman` are a multi-threaded C++ programs. By default the number of threads used is one less than the maximum supported by the hardware. 
+
+You can alter the number of threads by changing the variable `nr_threads` in the files 
+`src/jones.cc`, `src/kauffman.cc`, and/or `src/motkzin.cc`, and rerunning `make`.
+Each of the programs will then use `nr_threads + 1` threads, regardless of the
 maximum number of threads which your hardware supports.
-
-### Compiling
-
-`jones` requires the code from the git repository:
-
-   [https://github.com/cassioneri/Dyck](https://github.com/cassioneri/Dyck)
-
-to be put inside a subdirectory (of the directory where `jones` will be compiled)
-named `Dyck`.
-
-Compile with:
-
-```g++ -O3 -std=c++11 -Wall -Wextra -pedantic -o jones jones.cc```
-
-On linux you might have to do:
-
-```g++ -O3 -pthread -std=c++11 -Wall -Wextra -pedantic -o jones jones.cc```
-
-### Testing
-
-You can test if `jones` is working properly by running the `test.sh` script. If nothing is returned/displayed, then everything is working.
 
 Enjoy!
 

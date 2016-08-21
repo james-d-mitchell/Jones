@@ -1,0 +1,488 @@
+Number of Dyck words is 16796
+Processing Dyck words, elapsed time = 21ms 
+Dyck words use ~ 697.099609 KB
+Using 62 / 64 threads
+Number of palindromic Dyck words is 252
+Number of non-palindromic Dyck words is 8272
+Thread 0 has load 750
+Thread 1 has load 741
+Thread 2 has load 732
+Thread 3 has load 723
+Thread 4 has load 714
+Thread 5 has load 705
+Thread 6 has load 696
+Thread 7 has load 687
+Thread 8 has load 678
+Thread 9 has load 669
+Thread 10 has load 660
+Thread 11 has load 651
+Thread 12 has load 642
+Thread 13 has load 633
+Thread 14 has load 624
+Thread 15 has load 615
+Thread 16 has load 606
+Thread 17 has load 597
+Thread 18 has load 588
+Thread 19 has load 579
+Thread 20 has load 570
+Thread 21 has load 561
+Thread 22 has load 552
+Thread 23 has load 543
+Thread 24 has load 534
+Thread 25 has load 525
+Thread 26 has load 516
+Thread 27 has load 674
+Thread 28 has load 658
+Thread 29 has load 642
+Thread 30 has load 626
+Thread 31 has load 610
+Thread 32 has load 594
+Thread 33 has load 578
+Thread 34 has load 562
+Thread 35 has load 546
+Thread 36 has load 530
+Thread 37 has load 514
+Thread 38 has load 620
+Thread 39 has load 595
+Thread 40 has load 570
+Thread 41 has load 545
+Thread 42 has load 520
+Thread 43 has load 591
+Thread 44 has load 555
+Thread 45 has load 519
+Thread 46 has load 560
+Thread 47 has load 511
+Thread 48 has load 524
+Thread 49 has load 513
+Thread 50 has load 517
+Thread 51 has load 510
+Thread 52 has load 351
+Thread 0 is finished, elapsed time = 142μs 
+Thread 1 is finished, elapsed time = 310μs 
+Thread 2 is finished, elapsed time = 336μs 
+Thread 3 is finished, elapsed time = 336μs 
+Thread 4 is finished, elapsed time = 466μs 
+Thread 5 is finished, elapsed time = 465μs 
+Thread 6 is finished, elapsed time = 451μs 
+Thread 8 is finished, elapsed time = 415μs 
+Thread 9 is finished, elapsed time = 410μs 
+Thread 7 is finished, elapsed time = 487μs 
+Thread 13 is finished, elapsed time = 107μs 
+Thread 14 is finished, elapsed time = 107μs 
+Thread 15 is finished, elapsed time = 103μs 
+Thread 10 is finished, elapsed time = 512μs 
+Thread 12 is finished, elapsed time = 492μs 
+Thread 16 is finished, elapsed time = 153μs 
+Thread 20 is finished, elapsed time = 27μs 
+Thread 11 is finished, elapsed time = 753μs 
+Thread 17 is finished, elapsed time = 379μs 
+Thread 22 is finished, elapsed time = 36μs 
+Thread 19 is finished, elapsed time = 340μs 
+Thread 21 is finished, elapsed time = 266μs 
+Thread 18 is finished, elapsed time = 564μs 
+Thread 23 is finished, elapsed time = 131μs 
+Thread 24 is finished, elapsed time = 93μs 
+Thread 25 is finished, elapsed time = 58μs 
+Thread 27 is finished, elapsed time = 52μs 
+Thread 26 is finished, elapsed time = 84μs 
+Thread 29 is finished, elapsed time = 28μs 
+Thread 28 is finished, elapsed time = 181μs 
+Thread 30 is finished, elapsed time = 95μs 
+Thread 31 is finished, elapsed time = 45μs 
+Thread 32 is finished, elapsed time = 55μs 
+Thread 33 is finished, elapsed time = 44μs 
+Thread 34 is finished, elapsed time = 114μs 
+Thread 35 is finished, elapsed time = 48μs 
+Thread 36 is finished, elapsed time = 21μs 
+Thread 37 is finished, elapsed time = 56μs 
+Thread 38 is finished, elapsed time = 21μs 
+Thread 39 is finished, elapsed time = 17μs 
+Thread 40 is finished, elapsed time = 54μs 
+Thread 41 is finished, elapsed time = 122μs 
+Thread 42 is finished, elapsed time = 26μs 
+Thread 43 is finished, elapsed time = 18μs 
+Thread 44 is finished, elapsed time = 17μs 
+Thread 45 is finished, elapsed time = 22μs 
+Thread 46 is finished, elapsed time = 45μs 
+Thread 47 is finished, elapsed time = 12μs 
+Thread 48 is finished, elapsed time = 11μs 
+Thread 49 is finished, elapsed time = 29μs 
+Thread 50 is finished, elapsed time = 60μs 
+Thread 51 is finished, elapsed time = 30μs 
+Thread 53 is finished, elapsed time = 2849ns 
+Thread 52 is finished, elapsed time = 34μs 
+Thread 54 is finished, elapsed time = 8685ns 
+Thread 55 is finished, elapsed time = 34μs 
+Thread 56 is finished, elapsed time = 5369ns 
+Thread 57 is finished, elapsed time = 23μs 
+Thread 59 is finished, elapsed time = 2456ns 
+Thread 58 is finished, elapsed time = 8530ns 
+Thread 60 is finished, elapsed time = 6104ns 
+Thread 61 is finished, elapsed time = 8756ns 
+From comparison of palindromic and palindromic: 463348
+Thread 0 has load 551946
+Thread 1 has load 555594
+Thread 2 has load 559038
+Thread 3 has load 554277
+Thread 4 has load 557445
+Thread 5 has load 552545
+Thread 6 has load 555433
+Thread 7 has load 558108
+Thread 8 has load 552924
+Thread 9 has load 555311
+Thread 10 has load 557479
+Thread 11 has load 552003
+Thread 12 has load 553875
+Thread 13 has load 555522
+Thread 14 has load 556941
+Thread 15 has load 558129
+Thread 16 has load 552045
+Thread 17 has load 552921
+Thread 18 has load 553560
+Thread 19 has load 553959
+Thread 20 has load 554115
+Thread 21 has load 554025
+Thread 22 has load 553686
+Thread 23 has load 553095
+Thread 24 has load 552249
+Thread 25 has load 557436
+Thread 26 has load 555894
+Thread 27 has load 554085
+Thread 28 has load 552006
+Thread 29 has load 555582
+Thread 30 has load 552767
+Thread 31 has load 555408
+Thread 32 has load 551833
+Thread 33 has load 553509
+Thread 34 has load 554591
+Thread 35 has load 555067
+Thread 36 has load 554925
+Thread 37 has load 554153
+Thread 38 has load 552739
+Thread 39 has load 555576
+Thread 40 has load 552615
+Thread 41 has load 553644
+Thread 42 has load 553620
+Thread 43 has load 552516
+Thread 44 has load 554609
+Thread 45 has load 555178
+Thread 46 has load 554175
+Thread 47 has load 555450
+Thread 48 has load 554625
+Thread 49 has load 555227
+Thread 50 has load 553111
+Thread 51 has load 554730
+Thread 52 has load 552389
+Thread 53 has load 554668
+Thread 54 has load 553602
+Thread 55 has load 553031
+Thread 56 has load 552115
+Thread 57 has load 552320
+Thread 58 has load 553455
+Thread 59 has load 553090
+Thread 60 has load 551930
+Thread 61 has load 400960
+Thread 60 is finished, elapsed time = 29ms 
+Thread 61 is finished, elapsed time = 31ms 
+Thread 3 is finished, elapsed time = 67ms 
+Thread 2 is finished, elapsed time = 74ms 
+Thread 1 is finished, elapsed time = 81ms 
+Thread 0 is finished, elapsed time = 82ms 
+Thread 59 is finished, elapsed time = 104ms 
+Thread 58 is finished, elapsed time = 99ms 
+Thread 29 is finished, elapsed time = 118ms 
+Thread 57 is finished, elapsed time = 106ms 
+Thread 8 is finished, elapsed time = 121ms 
+Thread 55 is finished, elapsed time = 107ms 
+Thread 28 is finished, elapsed time = 122ms 
+Thread 9 is finished, elapsed time = 123ms 
+Thread 56 is finished, elapsed time = 110ms 
+Thread 52 is finished, elapsed time = 126ms 
+Thread 54 is finished, elapsed time = 115ms 
+Thread 43 is finished, elapsed time = 128ms 
+Thread 53 is finished, elapsed time = 117ms 
+Thread 19 is finished, elapsed time = 131ms 
+Thread 38 is finished, elapsed time = 131ms 
+Thread 30 is finished, elapsed time = 133ms 
+Thread 45 is finished, elapsed time = 133ms 
+Thread 16 is finished, elapsed time = 136ms 
+Thread 31 is finished, elapsed time = 131ms 
+Thread 18 is finished, elapsed time = 140ms 
+Thread 35 is finished, elapsed time = 138ms 
+Thread 41 is finished, elapsed time = 141ms 
+Thread 25 is finished, elapsed time = 144ms 
+Thread 4 is finished, elapsed time = 145ms 
+Thread 46 is finished, elapsed time = 145ms 
+Thread 27 is finished, elapsed time = 147ms 
+Thread 34 is finished, elapsed time = 139ms 
+Thread 11 is finished, elapsed time = 148ms 
+Thread 17 is finished, elapsed time = 150ms 
+Thread 42 is finished, elapsed time = 149ms 
+Thread 44 is finished, elapsed time = 150ms 
+Thread 26 is finished, elapsed time = 151ms 
+Thread 12 is finished, elapsed time = 152ms 
+Thread 33 is finished, elapsed time = 146ms 
+Thread 32 is finished, elapsed time = 150ms 
+Thread 10 is finished, elapsed time = 155ms 
+Thread 36 is finished, elapsed time = 147ms 
+Thread 20 is finished, elapsed time = 157ms 
+Thread 23 is finished, elapsed time = 157ms 
+Thread 22 is finished, elapsed time = 157ms 
+Thread 37 is finished, elapsed time = 147ms 
+Thread 15 is finished, elapsed time = 143ms 
+Thread 13 is finished, elapsed time = 151ms 
+Thread 21 is finished, elapsed time = 159ms 
+Thread 24 is finished, elapsed time = 159ms 
+Thread 14 is finished, elapsed time = 150ms 
+Thread 49 is finished, elapsed time = 157ms 
+Thread 47 is finished, elapsed time = 158ms 
+Thread 50 is finished, elapsed time = 152ms 
+Thread 40 is finished, elapsed time = 155ms 
+Thread 39 is finished, elapsed time = 156ms 
+Thread 5 is finished, elapsed time = 165ms 
+Thread 48 is finished, elapsed time = 164ms 
+Thread 51 is finished, elapsed time = 165ms 
+Thread 7 is finished, elapsed time = 166ms 
+Thread 6 is finished, elapsed time = 171ms 
+From comparison of non-palindromic and non-palindromic: 942987740
+Thread 0 has load 41360
+Thread 1 has load 41360
+Thread 2 has load 41360
+Thread 3 has load 41360
+Thread 4 has load 41360
+Thread 5 has load 41360
+Thread 6 has load 41360
+Thread 7 has load 41360
+Thread 8 has load 41360
+Thread 9 has load 41360
+Thread 10 has load 41360
+Thread 11 has load 41360
+Thread 12 has load 41360
+Thread 13 has load 41360
+Thread 14 has load 41360
+Thread 15 has load 41360
+Thread 16 has load 41360
+Thread 17 has load 41360
+Thread 18 has load 41360
+Thread 19 has load 41360
+Thread 20 has load 41360
+Thread 21 has load 41360
+Thread 22 has load 41360
+Thread 23 has load 41360
+Thread 24 has load 41360
+Thread 25 has load 41360
+Thread 26 has load 41360
+Thread 27 has load 41360
+Thread 28 has load 41360
+Thread 29 has load 41360
+Thread 30 has load 41360
+Thread 31 has load 41360
+Thread 32 has load 41360
+Thread 33 has load 41360
+Thread 34 has load 41360
+Thread 35 has load 41360
+Thread 36 has load 41360
+Thread 37 has load 41360
+Thread 38 has load 41360
+Thread 39 has load 41360
+Thread 40 has load 41360
+Thread 41 has load 41360
+Thread 42 has load 41360
+Thread 43 has load 41360
+Thread 44 has load 41360
+Thread 45 has load 41360
+Thread 46 has load 41360
+Thread 47 has load 41360
+Thread 48 has load 41360
+Thread 49 has load 41360
+Thread 50 has load 16544
+Thread 51 is finished, elapsed time = 7608ns 
+Thread 53 is finished, elapsed time = 24μs 
+Thread 52 is finished, elapsed time = 104μs 
+Thread 56 is finished, elapsed time = 7659ns 
+Thread 58 is finished, elapsed time = 6195ns 
+Thread 59 is finished, elapsed time = 2477ns 
+Thread 57 is finished, elapsed time = 417μs 
+Thread 61 is finished, elapsed time = 2958ns 
+Thread 60 is finished, elapsed time = 75μs 
+Thread 54 is finished, elapsed time = 1144μs 
+Thread 2 is finished, elapsed time = 4086μs 
+Thread 1 is finished, elapsed time = 4591μs 
+Thread 55 is finished, elapsed time = 2977μs 
+Thread 45 is finished, elapsed time = 3185μs 
+Thread 0 is finished, elapsed time = 5325μs 
+Thread 50 is finished, elapsed time = 2052μs 
+Thread 43 is finished, elapsed time = 4761μs 
+Thread 42 is finished, elapsed time = 4902μs 
+Thread 3 is finished, elapsed time = 6275μs 
+Thread 6 is finished, elapsed time = 5316μs 
+Thread 49 is finished, elapsed time = 4261μs 
+Thread 44 is finished, elapsed time = 6062μs 
+Thread 21 is finished, elapsed time = 6715μs 
+Thread 34 is finished, elapsed time = 7241μs 
+Thread 4 is finished, elapsed time = 7544μs 
+Thread 30 is finished, elapsed time = 7542μs 
+Thread 5 is finished, elapsed time = 7076μs 
+Thread 37 is finished, elapsed time = 3508μs 
+Thread 26 is finished, elapsed time = 6101μs 
+Thread 33 is finished, elapsed time = 8378μs 
+Thread 13 is finished, elapsed time = 7676μs 
+Thread 7 is finished, elapsed time = 8470μs 
+Thread 25 is finished, elapsed time = 8019μs 
+Thread 48 is finished, elapsed time = 2708μs 
+Thread 32 is finished, elapsed time = 8992μs 
+Thread 19 is finished, elapsed time = 8270μs 
+Thread 46 is finished, elapsed time = 2987μs 
+Thread 8 is finished, elapsed time = 8801μs 
+Thread 31 is finished, elapsed time = 9934μs 
+Thread 47 is finished, elapsed time = 2994μs 
+Thread 14 is finished, elapsed time = 9221μs 
+Thread 39 is finished, elapsed time = 9238μs 
+Thread 23 is finished, elapsed time = 7596μs 
+Thread 20 is finished, elapsed time = 7656μs 
+Thread 15 is finished, elapsed time = 6854μs 
+Thread 9 is finished, elapsed time = 5329μs 
+Thread 36 is finished, elapsed time = 9980μs 
+Thread 24 is finished, elapsed time = 10ms 
+Thread 10 is finished, elapsed time = 3519μs 
+Thread 11 is finished, elapsed time = 5144μs 
+Thread 27 is finished, elapsed time = 9401μs 
+Thread 22 is finished, elapsed time = 7393μs 
+Thread 41 is finished, elapsed time = 6471μs 
+Thread 29 is finished, elapsed time = 6718μs 
+Thread 35 is finished, elapsed time = 11ms 
+Thread 12 is finished, elapsed time = 11ms 
+Thread 28 is finished, elapsed time = 8950μs 
+Thread 18 is finished, elapsed time = 11ms 
+Thread 40 is finished, elapsed time = 10ms 
+Thread 38 is finished, elapsed time = 4334μs 
+Thread 16 is finished, elapsed time = 9686μs 
+Thread 17 is finished, elapsed time = 9261μs 
+From comparison of palindromic and non-palindromic: 58519912
+Thread 0 has load 552013
+Thread 1 has load 555662
+Thread 2 has load 559107
+Thread 3 has load 554346
+Thread 4 has load 557515
+Thread 5 has load 552615
+Thread 6 has load 555504
+Thread 7 has load 558180
+Thread 8 has load 552996
+Thread 9 has load 555384
+Thread 10 has load 557553
+Thread 11 has load 552077
+Thread 12 has load 553950
+Thread 13 has load 555598
+Thread 14 has load 557018
+Thread 15 has load 558207
+Thread 16 has load 552123
+Thread 17 has load 553000
+Thread 18 has load 553640
+Thread 19 has load 554040
+Thread 20 has load 554197
+Thread 21 has load 554108
+Thread 22 has load 553770
+Thread 23 has load 553180
+Thread 24 has load 552335
+Thread 25 has load 557524
+Thread 26 has load 555983
+Thread 27 has load 554175
+Thread 28 has load 552097
+Thread 29 has load 555675
+Thread 30 has load 552861
+Thread 31 has load 555504
+Thread 32 has load 551930
+Thread 33 has load 553608
+Thread 34 has load 554692
+Thread 35 has load 555170
+Thread 36 has load 555030
+Thread 37 has load 554260
+Thread 38 has load 552848
+Thread 39 has load 555688
+Thread 40 has load 552729
+Thread 41 has load 553761
+Thread 42 has load 553740
+Thread 43 has load 552639
+Thread 44 has load 554736
+Thread 45 has load 555309
+Thread 46 has load 554310
+Thread 47 has load 555590
+Thread 48 has load 554770
+Thread 49 has load 555378
+Thread 50 has load 553268
+Thread 51 has load 554895
+Thread 52 has load 552562
+Thread 53 has load 551928
+Thread 54 has load 553994
+Thread 55 has load 553453
+Thread 56 has load 552575
+Thread 57 has load 552832
+Thread 58 has load 552305
+Thread 59 has load 552771
+Thread 60 has load 552069
+Thread 61 has load 406351
+Thread 61 is finished, elapsed time = 14ms 
+Thread 60 is finished, elapsed time = 50ms 
+Thread 0 is finished, elapsed time = 85ms 
+Thread 3 is finished, elapsed time = 95ms 
+Thread 2 is finished, elapsed time = 98ms 
+Thread 55 is finished, elapsed time = 98ms 
+Thread 29 is finished, elapsed time = 104ms 
+Thread 56 is finished, elapsed time = 105ms 
+Thread 42 is finished, elapsed time = 107ms 
+Thread 1 is finished, elapsed time = 117ms 
+Thread 57 is finished, elapsed time = 114ms 
+Thread 34 is finished, elapsed time = 119ms 
+Thread 54 is finished, elapsed time = 120ms 
+Thread 13 is finished, elapsed time = 126ms 
+Thread 58 is finished, elapsed time = 127ms 
+Thread 53 is finished, elapsed time = 128ms 
+Thread 12 is finished, elapsed time = 128ms 
+Thread 49 is finished, elapsed time = 129ms 
+Thread 59 is finished, elapsed time = 127ms 
+Thread 33 is finished, elapsed time = 129ms 
+Thread 32 is finished, elapsed time = 132ms 
+Thread 52 is finished, elapsed time = 133ms 
+Thread 43 is finished, elapsed time = 136ms 
+Thread 19 is finished, elapsed time = 134ms 
+Thread 7 is finished, elapsed time = 140ms 
+Thread 44 is finished, elapsed time = 137ms 
+Thread 20 is finished, elapsed time = 142ms 
+Thread 38 is finished, elapsed time = 140ms 
+Thread 23 is finished, elapsed time = 143ms 
+Thread 21 is finished, elapsed time = 144ms 
+Thread 47 is finished, elapsed time = 142ms 
+Thread 50 is finished, elapsed time = 142ms 
+Thread 15 is finished, elapsed time = 142ms 
+Thread 5 is finished, elapsed time = 147ms 
+Thread 39 is finished, elapsed time = 144ms 
+Thread 51 is finished, elapsed time = 148ms 
+Thread 16 is finished, elapsed time = 143ms 
+Thread 41 is finished, elapsed time = 151ms 
+Thread 36 is finished, elapsed time = 144ms 
+Thread 10 is finished, elapsed time = 153ms 
+Thread 40 is finished, elapsed time = 154ms 
+Thread 37 is finished, elapsed time = 142ms 
+Thread 22 is finished, elapsed time = 156ms 
+Thread 8 is finished, elapsed time = 157ms 
+Thread 18 is finished, elapsed time = 149ms 
+Thread 14 is finished, elapsed time = 157ms 
+Thread 17 is finished, elapsed time = 159ms 
+Thread 30 is finished, elapsed time = 151ms 
+Thread 46 is finished, elapsed time = 159ms 
+Thread 48 is finished, elapsed time = 159ms 
+Thread 45 is finished, elapsed time = 154ms 
+Thread 35 is finished, elapsed time = 165ms 
+Thread 24 is finished, elapsed time = 167ms 
+Thread 6 is finished, elapsed time = 169ms 
+Thread 11 is finished, elapsed time = 164ms 
+Thread 25 is finished, elapsed time = 168ms 
+Thread 4 is finished, elapsed time = 171ms 
+Thread 9 is finished, elapsed time = 171ms 
+Thread 27 is finished, elapsed time = 167ms 
+Thread 26 is finished, elapsed time = 162ms 
+Thread 31 is finished, elapsed time = 172ms 
+Thread 28 is finished, elapsed time = 176ms 
+From comparison of non-palindromics and their reverses: 876580444
+Total elapsed time = 401ms 
+1878551444

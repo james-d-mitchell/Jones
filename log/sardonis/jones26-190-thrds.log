@@ -1,0 +1,1502 @@
+Number of Dyck words is 742900
+Processing Dyck words, elapsed time = 1892ms 
+Dyck words use ~ 38.683262 MB
+Using 190 / 192 threads
+Number of palindromic Dyck words is 1716
+Number of non-palindromic Dyck words is 370592
+Thread 0 has load 8565
+Thread 1 has load 8540
+Thread 2 has load 8515
+Thread 3 has load 8490
+Thread 4 has load 8465
+Thread 5 has load 8440
+Thread 6 has load 8415
+Thread 7 has load 8390
+Thread 8 has load 8365
+Thread 9 has load 8340
+Thread 10 has load 8315
+Thread 11 has load 8290
+Thread 12 has load 8265
+Thread 13 has load 8240
+Thread 14 has load 8215
+Thread 15 has load 8190
+Thread 16 has load 8165
+Thread 17 has load 8140
+Thread 18 has load 8115
+Thread 19 has load 8090
+Thread 20 has load 8065
+Thread 21 has load 8040
+Thread 22 has load 8015
+Thread 23 has load 7990
+Thread 24 has load 7965
+Thread 25 has load 7940
+Thread 26 has load 7915
+Thread 27 has load 7890
+Thread 28 has load 7865
+Thread 29 has load 7840
+Thread 30 has load 7815
+Thread 31 has load 7790
+Thread 32 has load 7765
+Thread 33 has load 9285
+Thread 34 has load 9249
+Thread 35 has load 9213
+Thread 36 has load 9177
+Thread 37 has load 9141
+Thread 38 has load 9105
+Thread 39 has load 9069
+Thread 40 has load 9033
+Thread 41 has load 8997
+Thread 42 has load 8961
+Thread 43 has load 8925
+Thread 44 has load 8889
+Thread 45 has load 8853
+Thread 46 has load 8817
+Thread 47 has load 8781
+Thread 48 has load 8745
+Thread 49 has load 8709
+Thread 50 has load 8673
+Thread 51 has load 8637
+Thread 52 has load 8601
+Thread 53 has load 8565
+Thread 54 has load 8529
+Thread 55 has load 8493
+Thread 56 has load 8457
+Thread 57 has load 8421
+Thread 58 has load 8385
+Thread 59 has load 8349
+Thread 60 has load 8313
+Thread 61 has load 8277
+Thread 62 has load 8241
+Thread 63 has load 8205
+Thread 64 has load 8169
+Thread 65 has load 8133
+Thread 66 has load 8097
+Thread 67 has load 8061
+Thread 68 has load 8025
+Thread 69 has load 7989
+Thread 70 has load 7953
+Thread 71 has load 7917
+Thread 72 has load 7881
+Thread 73 has load 7845
+Thread 74 has load 7809
+Thread 75 has load 7773
+Thread 76 has load 9023
+Thread 77 has load 8974
+Thread 78 has load 8925
+Thread 79 has load 8876
+Thread 80 has load 8827
+Thread 81 has load 8778
+Thread 82 has load 8729
+Thread 83 has load 8680
+Thread 84 has load 8631
+Thread 85 has load 8582
+Thread 86 has load 8533
+Thread 87 has load 8484
+Thread 88 has load 8435
+Thread 89 has load 8386
+Thread 90 has load 8337
+Thread 91 has load 8288
+Thread 92 has load 8239
+Thread 93 has load 8190
+Thread 94 has load 8141
+Thread 95 has load 8092
+Thread 96 has load 8043
+Thread 97 has load 7994
+Thread 98 has load 7945
+Thread 99 has load 7896
+Thread 100 has load 7847
+Thread 101 has load 7798
+Thread 102 has load 7749
+Thread 103 has load 8796
+Thread 104 has load 8732
+Thread 105 has load 8668
+Thread 106 has load 8604
+Thread 107 has load 8540
+Thread 108 has load 8476
+Thread 109 has load 8412
+Thread 110 has load 8348
+Thread 111 has load 8284
+Thread 112 has load 8220
+Thread 113 has load 8156
+Thread 114 has load 8092
+Thread 115 has load 8028
+Thread 116 has load 7964
+Thread 117 has load 7900
+Thread 118 has load 7836
+Thread 119 has load 7772
+Thread 120 has load 8667
+Thread 121 has load 8586
+Thread 122 has load 8505
+Thread 123 has load 8424
+Thread 124 has load 8343
+Thread 125 has load 8262
+Thread 126 has load 8181
+Thread 127 has load 8100
+Thread 128 has load 8019
+Thread 129 has load 7938
+Thread 130 has load 7857
+Thread 131 has load 7776
+Thread 132 has load 8545
+Thread 133 has load 8445
+Thread 134 has load 8345
+Thread 135 has load 8245
+Thread 136 has load 8145
+Thread 137 has load 8045
+Thread 138 has load 7945
+Thread 139 has load 7845
+Thread 140 has load 7745
+Thread 141 has load 8404
+Thread 142 has load 8283
+Thread 143 has load 8162
+Thread 144 has load 8041
+Thread 145 has load 7920
+Thread 146 has load 7799
+Thread 147 has load 8370
+Thread 148 has load 8226
+Thread 149 has load 8082
+Thread 150 has load 7938
+Thread 151 has load 7794
+Thread 152 has load 8281
+Thread 153 has load 8112
+Thread 154 has load 7943
+Thread 155 has load 7774
+Thread 156 has load 8183
+Thread 157 has load 7987
+Thread 158 has load 7791
+Thread 159 has load 8130
+Thread 160 has load 7905
+Thread 161 has load 8184
+Thread 162 has load 7928
+Thread 163 has load 8143
+Thread 164 has load 7854
+Thread 165 has load 8001
+Thread 166 has load 8094
+Thread 167 has load 8130
+Thread 168 has load 8106
+Thread 169 has load 8019
+Thread 170 has load 7866
+Thread 171 has load 7950
+Thread 172 has load 7884
+Thread 173 has load 7905
+Thread 174 has load 7871
+Thread 175 has load 7780
+Thread 176 has load 7844
+Thread 177 has load 7381
+Thread 1 is finished, elapsed time = 913μs 
+Thread 2 is finished, elapsed time = 773μs 
+Thread 0 is finished, elapsed time = 1298μs 
+Thread 3 is finished, elapsed time = 1012μs 
+Thread 8 is finished, elapsed time = 491μs 
+Thread 6 is finished, elapsed time = 783μs 
+Thread 4 is finished, elapsed time = 1110μs 
+Thread 7 is finished, elapsed time = 788μs 
+Thread 5 is finished, elapsed time = 1097μs 
+Thread 10 is finished, elapsed time = 449μs 
+Thread 9 is finished, elapsed time = 636μs 
+Thread 12 is finished, elapsed time = 277μs 
+Thread 11 is finished, elapsed time = 487μs 
+Thread 13 is finished, elapsed time = 383μs 
+Thread 14 is finished, elapsed time = 314μs 
+Thread 15 is finished, elapsed time = 423μs 
+Thread 16 is finished, elapsed time = 450μs 
+Thread 17 is finished, elapsed time = 398μs 
+Thread 18 is finished, elapsed time = 307μs 
+Thread 19 is finished, elapsed time = 279μs 
+Thread 20 is finished, elapsed time = 402μs 
+Thread 21 is finished, elapsed time = 359μs 
+Thread 23 is finished, elapsed time = 253μs 
+Thread 24 is finished, elapsed time = 293μs 
+Thread 22 is finished, elapsed time = 621μs 
+Thread 25 is finished, elapsed time = 504μs 
+Thread 27 is finished, elapsed time = 391μs 
+Thread 28 is finished, elapsed time = 328μs 
+Thread 26 is finished, elapsed time = 584μs 
+Thread 29 is finished, elapsed time = 451μs 
+Thread 30 is finished, elapsed time = 408μs 
+Thread 31 is finished, elapsed time = 380μs 
+Thread 33 is finished, elapsed time = 304μs 
+Thread 32 is finished, elapsed time = 507μs 
+Thread 35 is finished, elapsed time = 261μs 
+Thread 34 is finished, elapsed time = 466μs 
+Thread 36 is finished, elapsed time = 407μs 
+Thread 37 is finished, elapsed time = 366μs 
+Thread 38 is finished, elapsed time = 499μs 
+Thread 40 is finished, elapsed time = 315μs 
+Thread 39 is finished, elapsed time = 514μs 
+Thread 42 is finished, elapsed time = 272μs 
+Thread 41 is finished, elapsed time = 407μs 
+Thread 43 is finished, elapsed time = 365μs 
+Thread 44 is finished, elapsed time = 410μs 
+Thread 45 is finished, elapsed time = 374μs 
+Thread 46 is finished, elapsed time = 342μs 
+Thread 47 is finished, elapsed time = 410μs 
+Thread 48 is finished, elapsed time = 354μs 
+Thread 49 is finished, elapsed time = 456μs 
+Thread 51 is finished, elapsed time = 233μs 
+Thread 50 is finished, elapsed time = 385μs 
+Thread 52 is finished, elapsed time = 358μs 
+Thread 53 is finished, elapsed time = 490μs 
+Thread 54 is finished, elapsed time = 439μs 
+Thread 57 is finished, elapsed time = 254μs 
+Thread 56 is finished, elapsed time = 431μs 
+Thread 58 is finished, elapsed time = 406μs 
+Thread 55 is finished, elapsed time = 701μs 
+Thread 59 is finished, elapsed time = 322μs 
+Thread 61 is finished, elapsed time = 271μs 
+Thread 60 is finished, elapsed time = 444μs 
+Thread 62 is finished, elapsed time = 439μs 
+Thread 63 is finished, elapsed time = 411μs 
+Thread 64 is finished, elapsed time = 338μs 
+Thread 66 is finished, elapsed time = 195μs 
+Thread 65 is finished, elapsed time = 334μs 
+Thread 67 is finished, elapsed time = 350μs 
+Thread 68 is finished, elapsed time = 315μs 
+Thread 69 is finished, elapsed time = 319μs 
+Thread 70 is finished, elapsed time = 289μs 
+Thread 71 is finished, elapsed time = 263μs 
+Thread 72 is finished, elapsed time = 381μs 
+Thread 73 is finished, elapsed time = 322μs 
+Thread 75 is finished, elapsed time = 286μs 
+Thread 74 is finished, elapsed time = 453μs 
+Thread 76 is finished, elapsed time = 297μs 
+Thread 77 is finished, elapsed time = 359μs 
+Thread 78 is finished, elapsed time = 308μs 
+Thread 79 is finished, elapsed time = 319μs 
+Thread 80 is finished, elapsed time = 422μs 
+Thread 81 is finished, elapsed time = 339μs 
+Thread 82 is finished, elapsed time = 462μs 
+Thread 84 is finished, elapsed time = 285μs 
+Thread 83 is finished, elapsed time = 483μs 
+Thread 85 is finished, elapsed time = 430μs 
+Thread 86 is finished, elapsed time = 422μs 
+Thread 87 is finished, elapsed time = 437μs 
+Thread 88 is finished, elapsed time = 410μs 
+Thread 89 is finished, elapsed time = 376μs 
+Thread 90 is finished, elapsed time = 328μs 
+Thread 91 is finished, elapsed time = 363μs 
+Thread 93 is finished, elapsed time = 377μs 
+Thread 94 is finished, elapsed time = 334μs 
+Thread 92 is finished, elapsed time = 371μs 
+Thread 95 is finished, elapsed time = 369μs 
+Thread 98 is finished, elapsed time = 276μs 
+Thread 96 is finished, elapsed time = 436μs 
+Thread 100 is finished, elapsed time = 361μs 
+Thread 101 is finished, elapsed time = 358μs 
+Thread 103 is finished, elapsed time = 357μs 
+Thread 106 is finished, elapsed time = 226μs 
+Thread 107 is finished, elapsed time = 192μs 
+Thread 97 is finished, elapsed time = 376μs 
+Thread 108 is finished, elapsed time = 144μs 
+Thread 105 is finished, elapsed time = 444μs 
+Thread 109 is finished, elapsed time = 237μs 
+Thread 110 is finished, elapsed time = 231μs 
+Thread 111 is finished, elapsed time = 194μs 
+Thread 99 is finished, elapsed time = 574μs 
+Thread 113 is finished, elapsed time = 164μs 
+Thread 112 is finished, elapsed time = 268μs 
+Thread 115 is finished, elapsed time = 209μs 
+Thread 114 is finished, elapsed time = 474μs 
+Thread 102 is finished, elapsed time = 639μs 
+Thread 116 is finished, elapsed time = 335μs 
+Thread 117 is finished, elapsed time = 262μs 
+Thread 118 is finished, elapsed time = 192μs 
+Thread 120 is finished, elapsed time = 191μs 
+Thread 119 is finished, elapsed time = 255μs 
+Thread 121 is finished, elapsed time = 223μs 
+Thread 104 is finished, elapsed time = 640μs 
+Thread 123 is finished, elapsed time = 193μs 
+Thread 125 is finished, elapsed time = 103μs 
+Thread 124 is finished, elapsed time = 248μs 
+Thread 122 is finished, elapsed time = 474μs 
+Thread 126 is finished, elapsed time = 243μs 
+Thread 127 is finished, elapsed time = 202μs 
+Thread 129 is finished, elapsed time = 194μs 
+Thread 128 is finished, elapsed time = 391μs 
+Thread 130 is finished, elapsed time = 155μs 
+Thread 131 is finished, elapsed time = 154μs 
+Thread 132 is finished, elapsed time = 195μs 
+Thread 133 is finished, elapsed time = 177μs 
+Thread 134 is finished, elapsed time = 275μs 
+Thread 135 is finished, elapsed time = 165μs 
+Thread 136 is finished, elapsed time = 161μs 
+Thread 137 is finished, elapsed time = 151μs 
+Thread 138 is finished, elapsed time = 179μs 
+Thread 139 is finished, elapsed time = 323μs 
+Thread 140 is finished, elapsed time = 300μs 
+Thread 141 is finished, elapsed time = 401μs 
+Thread 143 is finished, elapsed time = 209μs 
+Thread 144 is finished, elapsed time = 133μs 
+Thread 142 is finished, elapsed time = 478μs 
+Thread 145 is finished, elapsed time = 195μs 
+Thread 146 is finished, elapsed time = 159μs 
+Thread 147 is finished, elapsed time = 113μs 
+Thread 148 is finished, elapsed time = 145μs 
+Thread 149 is finished, elapsed time = 167μs 
+Thread 150 is finished, elapsed time = 204μs 
+Thread 151 is finished, elapsed time = 215μs 
+Thread 152 is finished, elapsed time = 140μs 
+Thread 153 is finished, elapsed time = 131μs 
+Thread 154 is finished, elapsed time = 134μs 
+Thread 155 is finished, elapsed time = 125μs 
+Thread 156 is finished, elapsed time = 92μs 
+Thread 157 is finished, elapsed time = 179μs 
+Thread 158 is finished, elapsed time = 88μs 
+Thread 159 is finished, elapsed time = 141μs 
+Thread 160 is finished, elapsed time = 124μs 
+Thread 161 is finished, elapsed time = 98μs 
+Thread 162 is finished, elapsed time = 120μs 
+Thread 163 is finished, elapsed time = 130μs 
+Thread 164 is finished, elapsed time = 100μs 
+Thread 165 is finished, elapsed time = 215μs 
+Thread 166 is finished, elapsed time = 166μs 
+Thread 167 is finished, elapsed time = 87μs 
+Thread 168 is finished, elapsed time = 126μs 
+Thread 169 is finished, elapsed time = 143μs 
+Thread 170 is finished, elapsed time = 80μs 
+Thread 171 is finished, elapsed time = 112μs 
+Thread 172 is finished, elapsed time = 109μs 
+Thread 173 is finished, elapsed time = 75μs 
+Thread 174 is finished, elapsed time = 123μs 
+Thread 175 is finished, elapsed time = 67μs 
+Thread 176 is finished, elapsed time = 119μs 
+Thread 177 is finished, elapsed time = 54μs 
+Thread 178 is finished, elapsed time = 1902ns 
+Thread 179 is finished, elapsed time = 1906ns 
+Thread 180 is finished, elapsed time = 4349ns 
+Thread 181 is finished, elapsed time = 1988ns 
+Thread 182 is finished, elapsed time = 1623ns 
+Thread 183 is finished, elapsed time = 1742ns 
+Thread 184 is finished, elapsed time = 4557ns 
+Thread 185 is finished, elapsed time = 1764ns 
+Thread 186 is finished, elapsed time = 1627ns 
+Thread 187 is finished, elapsed time = 1813ns 
+Thread 188 is finished, elapsed time = 3580ns 
+Thread 189 is finished, elapsed time = 1904ns 
+From comparison of palindromic and palindromic: 21130836
+Thread 0 has load 361590631
+Thread 1 has load 361742010
+Thread 2 has load 361516917
+Thread 3 has load 361652600
+Thread 4 has load 361779418
+Thread 5 has load 361532655
+Thread 6 has load 361643649
+Thread 7 has load 361745706
+Thread 8 has load 361477097
+Thread 9 has load 361563202
+Thread 10 has load 361640298
+Thread 11 has load 361708358
+Thread 12 has load 361767355
+Thread 13 has load 361460594
+Thread 14 has load 361503415
+Thread 15 has load 361537101
+Thread 16 has load 361561625
+Thread 17 has load 361576960
+Thread 18 has load 361583079
+Thread 19 has load 361579955
+Thread 20 has load 361567561
+Thread 21 has load 361545870
+Thread 22 has load 361514855
+Thread 23 has load 361474489
+Thread 24 has load 361424745
+Thread 25 has load 361709886
+Thread 26 has load 361639202
+Thread 27 has load 361559050
+Thread 28 has load 361469403
+Thread 29 has load 361710297
+Thread 30 has load 361599450
+Thread 31 has load 361479018
+Thread 32 has load 361685832
+Thread 33 has load 361544000
+Thread 34 has load 361727197
+Thread 35 has load 361563825
+Thread 36 has load 361723251
+Thread 37 has load 361538199
+Thread 38 has load 361673700
+Thread 39 has load 361466828
+Thread 40 has load 361578250
+Thread 41 has load 361676472
+Thread 42 has load 361435500
+Thread 43 has load 361509401
+Thread 44 has load 361569970
+Thread 45 has load 361617159
+Thread 46 has load 361650920
+Thread 47 has load 361671205
+Thread 48 has load 361677966
+Thread 49 has load 361671155
+Thread 50 has load 361650724
+Thread 51 has load 361616625
+Thread 52 has load 361568810
+Thread 53 has load 361507231
+Thread 54 has load 361431840
+Thread 55 has load 361653780
+Thread 56 has load 361548294
+Thread 57 has load 361428840
+Thread 58 has load 361603056
+Thread 59 has load 361453169
+Thread 60 has load 361594485
+Thread 61 has load 361718071
+Thread 62 has load 361520904
+Thread 63 has load 361611198
+Thread 64 has load 361683552
+Thread 65 has load 361438545
+Thread 66 has load 361477215
+Thread 67 has load 361497735
+Thread 68 has load 361500030
+Thread 69 has load 361484025
+Thread 70 has load 361449645
+Thread 71 has load 361688826
+Thread 72 has load 361614990
+Thread 73 has load 361522539
+Thread 74 has load 361699670
+Thread 75 has load 361567251
+Thread 76 has load 361415977
+Thread 77 has load 361530258
+Thread 78 has load 361621715
+Thread 79 has load 361690240
+Thread 80 has load 361455080
+Thread 81 has load 361480000
+Thread 82 has load 361481682
+Thread 83 has load 361460018
+Thread 84 has load 361690345
+Thread 85 has load 361619034
+Thread 86 has load 361524035
+Thread 87 has load 361676718
+Thread 88 has load 361531350
+Thread 89 has load 361630753
+Thread 90 has load 361434522
+Thread 91 has load 361480125
+Thread 92 has load 361497273
+Thread 93 has load 361485819
+Thread 94 has load 361445616
+Thread 95 has load 361637124
+Thread 96 has load 361536201
+Thread 97 has load 361663884
+Thread 98 has load 361501581
+Thread 99 has load 361564749
+Thread 100 has load 361593981
+Thread 101 has load 361589085
+Thread 102 has load 361549869
+Thread 103 has load 361476141
+Thread 104 has load 361615515
+Thread 105 has load 361469262
+Thread 106 has load 361532768
+Thread 107 has load 361556530
+Thread 108 has load 361540305
+Thread 109 has load 361483850
+Thread 110 has load 361625814
+Thread 111 has load 361485135
+Thread 112 has load 361539316
+Thread 113 has load 361547657
+Thread 114 has load 361509858
+Thread 115 has load 361425619
+Thread 116 has load 361524273
+Thread 117 has load 361571150
+Thread 118 has load 361565887
+Thread 119 has load 361508121
+Thread 120 has load 361620735
+Thread 121 has load 361453625
+Thread 122 has load 361452874
+Thread 123 has load 361611525
+Thread 124 has load 361489155
+Thread 125 has load 361521950
+Thread 126 has load 361489420
+Thread 127 has load 361602665
+Thread 128 has load 361434535
+Thread 129 has load 361615845
+Thread 130 has load 361512888
+Thread 131 has load 361541342
+Thread 132 has load 361490641
+Thread 133 has load 361561205
+Thread 134 has load 361545849
+Thread 135 has load 361443805
+Thread 136 has load 361449933
+Thread 137 has load 361556043
+Thread 138 has load 361561875
+Thread 139 has load 361466457
+Thread 140 has load 361456908
+Thread 141 has load 361524534
+Thread 142 has load 361476240
+Thread 143 has load 361493060
+Thread 144 has load 361565820
+Thread 145 has load 361506910
+Thread 146 has load 361491060
+Thread 147 has load 361508568
+Thread 148 has load 361549497
+Thread 149 has load 361433751
+Thread 150 has load 361495004
+Thread 151 has load 361548441
+Thread 152 has load 361419682
+Thread 153 has load 361428738
+Thread 154 has load 361555209
+Thread 155 has load 361464816
+Thread 156 has load 361463100
+Thread 157 has load 361528125
+Thread 158 has load 361487709
+Thread 159 has load 361475336
+Thread 160 has load 361467099
+Thread 161 has load 361438291
+Thread 162 has load 361502909
+Thread 163 has load 361487140
+Thread 164 has load 361497603
+Thread 165 has load 361494800
+Thread 166 has load 361437658
+Thread 167 has load 361535294
+Thread 168 has load 361473948
+Thread 169 has load 361446577
+Thread 170 has load 361496675
+Thread 171 has load 361420723
+Thread 172 has load 361469150
+Thread 173 has load 361516513
+Thread 174 has load 361429929
+Thread 175 has load 361469921
+Thread 176 has load 361428214
+Thread 177 has load 361453335
+Thread 178 has load 361420388
+Thread 179 has load 361477453
+Thread 180 has load 361449869
+Thread 181 has load 361477336
+Thread 182 has load 361460642
+Thread 183 has load 361431268
+Thread 184 has load 361433982
+Thread 185 has load 361434648
+Thread 186 has load 361443852
+Thread 187 has load 361446750
+Thread 188 has load 361439492
+Thread 189 has load 338221036
+Thread 169 is finished, elapsed time = 2m 24s
+Thread 170 is finished, elapsed time = 2m 27s
+Thread 172 is finished, elapsed time = 2m 27s
+Thread 171 is finished, elapsed time = 2m 30s
+Thread 173 is finished, elapsed time = 2m 31s
+Thread 168 is finished, elapsed time = 2m 31s
+Thread 164 is finished, elapsed time = 2m 37s
+Thread 163 is finished, elapsed time = 2m 38s
+Thread 141 is finished, elapsed time = 2m 42s
+Thread 122 is finished, elapsed time = 2m 43s
+Thread 90 is finished, elapsed time = 2m 43s
+Thread 127 is finished, elapsed time = 2m 43s
+Thread 167 is finished, elapsed time = 2m 46s
+Thread 93 is finished, elapsed time = 2m 47s
+Thread 143 is finished, elapsed time = 2m 49s
+Thread 114 is finished, elapsed time = 2m 50s
+Thread 123 is finished, elapsed time = 2m 51s
+Thread 71 is finished, elapsed time = 2m 52s
+Thread 117 is finished, elapsed time = 2m 53s
+Thread 65 is finished, elapsed time = 2m 53s
+Thread 113 is finished, elapsed time = 2m 55s
+Thread 30 is finished, elapsed time = 2m 56s
+Thread 121 is finished, elapsed time = 2m 57s
+Thread 84 is finished, elapsed time = 2m 57s
+Thread 92 is finished, elapsed time = 2m 57s
+Thread 47 is finished, elapsed time = 2m 57s
+Thread 0 is finished, elapsed time = 2m 58s
+Thread 165 is finished, elapsed time = 2m 57s
+Thread 179 is finished, elapsed time = 2m 58s
+Thread 146 is finished, elapsed time = 2m 58s
+Thread 174 is finished, elapsed time = 2m 58s
+Thread 175 is finished, elapsed time = 2m 59s
+Thread 116 is finished, elapsed time = 2m 59s
+Thread 118 is finished, elapsed time = 2m 59s
+Thread 125 is finished, elapsed time = 2m 59s
+Thread 161 is finished, elapsed time = 2m 59s
+Thread 120 is finished, elapsed time = 3m 
+Thread 166 is finished, elapsed time = 3m 
+Thread 119 is finished, elapsed time = 3m 1s
+Thread 154 is finished, elapsed time = 3m 1s
+Thread 115 is finished, elapsed time = 3m 1s
+Thread 31 is finished, elapsed time = 3m 1s
+Thread 176 is finished, elapsed time = 3m 1s
+Thread 102 is finished, elapsed time = 3m 1s
+Thread 155 is finished, elapsed time = 3m 2s
+Thread 1 is finished, elapsed time = 3m 2s
+Thread 32 is finished, elapsed time = 3m 2s
+Thread 181 is finished, elapsed time = 3m 2s
+Thread 180 is finished, elapsed time = 3m 2s
+Thread 177 is finished, elapsed time = 3m 2s
+Thread 22 is finished, elapsed time = 3m 2s
+Thread 91 is finished, elapsed time = 3m 2s
+Thread 178 is finished, elapsed time = 3m 2s
+Thread 98 is finished, elapsed time = 3m 2s
+Thread 136 is finished, elapsed time = 3m 3s
+Thread 142 is finished, elapsed time = 3m 3s
+Thread 159 is finished, elapsed time = 3m 3s
+Thread 182 is finished, elapsed time = 3m 3s
+Thread 153 is finished, elapsed time = 3m 3s
+Thread 184 is finished, elapsed time = 3m 3s
+Thread 162 is finished, elapsed time = 3m 3s
+Thread 157 is finished, elapsed time = 3m 4s
+Thread 108 is finished, elapsed time = 3m 4s
+Thread 87 is finished, elapsed time = 3m 4s
+Thread 74 is finished, elapsed time = 3m 4s
+Thread 152 is finished, elapsed time = 3m 4s
+Thread 131 is finished, elapsed time = 3m 5s
+Thread 151 is finished, elapsed time = 3m 5s
+Thread 66 is finished, elapsed time = 3m 5s
+Thread 158 is finished, elapsed time = 3m 5s
+Thread 150 is finished, elapsed time = 3m 6s
+Thread 86 is finished, elapsed time = 3m 6s
+Thread 183 is finished, elapsed time = 3m 6s
+Thread 88 is finished, elapsed time = 3m 6s
+Thread 112 is finished, elapsed time = 3m 6s
+Thread 128 is finished, elapsed time = 3m 6s
+Thread 85 is finished, elapsed time = 3m 7s
+Thread 81 is finished, elapsed time = 3m 7s
+Thread 100 is finished, elapsed time = 3m 7s
+Thread 72 is finished, elapsed time = 3m 7s
+Thread 149 is finished, elapsed time = 3m 7s
+Thread 68 is finished, elapsed time = 3m 7s
+Thread 103 is finished, elapsed time = 3m 7s
+Thread 4 is finished, elapsed time = 3m 7s
+Thread 21 is finished, elapsed time = 3m 8s
+Thread 135 is finished, elapsed time = 3m 8s
+Thread 80 is finished, elapsed time = 3m 8s
+Thread 139 is finished, elapsed time = 3m 8s
+Thread 79 is finished, elapsed time = 3m 8s
+Thread 109 is finished, elapsed time = 3m 8s
+Thread 189 is finished, elapsed time = 3m 8s
+Thread 148 is finished, elapsed time = 3m 8s
+Thread 105 is finished, elapsed time = 3m 8s
+Thread 156 is finished, elapsed time = 3m 8s
+Thread 140 is finished, elapsed time = 3m 8s
+Thread 124 is finished, elapsed time = 3m 9s
+Thread 73 is finished, elapsed time = 3m 9s
+Thread 130 is finished, elapsed time = 3m 9s
+Thread 137 is finished, elapsed time = 3m 9s
+Thread 160 is finished, elapsed time = 3m 9s
+Thread 185 is finished, elapsed time = 3m 9s
+Thread 44 is finished, elapsed time = 3m 9s
+Thread 187 is finished, elapsed time = 3m 9s
+Thread 97 is finished, elapsed time = 3m 10s
+Thread 64 is finished, elapsed time = 3m 10s
+Thread 101 is finished, elapsed time = 3m 10s
+Thread 126 is finished, elapsed time = 3m 10s
+Thread 99 is finished, elapsed time = 3m 10s
+Thread 25 is finished, elapsed time = 3m 10s
+Thread 76 is finished, elapsed time = 3m 10s
+Thread 27 is finished, elapsed time = 3m 10s
+Thread 145 is finished, elapsed time = 3m 10s
+Thread 129 is finished, elapsed time = 3m 10s
+Thread 110 is finished, elapsed time = 3m 10s
+Thread 95 is finished, elapsed time = 3m 11s
+Thread 133 is finished, elapsed time = 3m 11s
+Thread 70 is finished, elapsed time = 3m 11s
+Thread 46 is finished, elapsed time = 3m 11s
+Thread 67 is finished, elapsed time = 3m 11s
+Thread 82 is finished, elapsed time = 3m 11s
+Thread 6 is finished, elapsed time = 3m 11s
+Thread 104 is finished, elapsed time = 3m 11s
+Thread 29 is finished, elapsed time = 3m 11s
+Thread 53 is finished, elapsed time = 3m 12s
+Thread 78 is finished, elapsed time = 3m 12s
+Thread 89 is finished, elapsed time = 3m 12s
+Thread 138 is finished, elapsed time = 3m 12s
+Thread 106 is finished, elapsed time = 3m 12s
+Thread 188 is finished, elapsed time = 3m 12s
+Thread 42 is finished, elapsed time = 3m 12s
+Thread 111 is finished, elapsed time = 3m 12s
+Thread 144 is finished, elapsed time = 3m 12s
+Thread 75 is finished, elapsed time = 3m 13s
+Thread 51 is finished, elapsed time = 3m 13s
+Thread 132 is finished, elapsed time = 3m 13s
+Thread 56 is finished, elapsed time = 3m 13s
+Thread 28 is finished, elapsed time = 3m 13s
+Thread 96 is finished, elapsed time = 3m 13s
+Thread 43 is finished, elapsed time = 3m 13s
+Thread 23 is finished, elapsed time = 3m 13s
+Thread 63 is finished, elapsed time = 3m 13s
+Thread 20 is finished, elapsed time = 3m 14s
+Thread 11 is finished, elapsed time = 3m 14s
+Thread 69 is finished, elapsed time = 3m 14s
+Thread 147 is finished, elapsed time = 3m 14s
+Thread 62 is finished, elapsed time = 3m 14s
+Thread 52 is finished, elapsed time = 3m 14s
+Thread 57 is finished, elapsed time = 3m 14s
+Thread 18 is finished, elapsed time = 3m 14s
+Thread 39 is finished, elapsed time = 3m 14s
+Thread 35 is finished, elapsed time = 3m 14s
+Thread 83 is finished, elapsed time = 3m 14s
+Thread 41 is finished, elapsed time = 3m 14s
+Thread 24 is finished, elapsed time = 3m 14s
+Thread 34 is finished, elapsed time = 3m 14s
+Thread 36 is finished, elapsed time = 3m 15s
+Thread 94 is finished, elapsed time = 3m 15s
+Thread 13 is finished, elapsed time = 3m 15s
+Thread 59 is finished, elapsed time = 3m 15s
+Thread 48 is finished, elapsed time = 3m 15s
+Thread 10 is finished, elapsed time = 3m 15s
+Thread 61 is finished, elapsed time = 3m 15s
+Thread 17 is finished, elapsed time = 3m 15s
+Thread 186 is finished, elapsed time = 3m 15s
+Thread 26 is finished, elapsed time = 3m 15s
+Thread 9 is finished, elapsed time = 3m 15s
+Thread 60 is finished, elapsed time = 3m 15s
+Thread 40 is finished, elapsed time = 3m 15s
+Thread 16 is finished, elapsed time = 3m 15s
+Thread 19 is finished, elapsed time = 3m 15s
+Thread 54 is finished, elapsed time = 3m 16s
+Thread 58 is finished, elapsed time = 3m 16s
+Thread 8 is finished, elapsed time = 3m 16s
+Thread 55 is finished, elapsed time = 3m 16s
+Thread 33 is finished, elapsed time = 3m 16s
+Thread 7 is finished, elapsed time = 3m 16s
+Thread 37 is finished, elapsed time = 3m 16s
+Thread 45 is finished, elapsed time = 3m 16s
+Thread 14 is finished, elapsed time = 3m 16s
+Thread 2 is finished, elapsed time = 3m 16s
+Thread 77 is finished, elapsed time = 3m 16s
+Thread 107 is finished, elapsed time = 3m 17s
+Thread 134 is finished, elapsed time = 3m 17s
+Thread 5 is finished, elapsed time = 3m 17s
+Thread 3 is finished, elapsed time = 3m 17s
+Thread 50 is finished, elapsed time = 3m 17s
+Thread 12 is finished, elapsed time = 3m 18s
+Thread 49 is finished, elapsed time = 3m 19s
+Thread 38 is finished, elapsed time = 3m 20s
+Thread 15 is finished, elapsed time = 3m 20s
+From comparison of non-palindromic and non-palindromic: 2036934888904
+Thread 0 has load 3705920
+Thread 1 has load 3705920
+Thread 2 has load 3705920
+Thread 3 has load 3705920
+Thread 4 has load 3705920
+Thread 5 has load 3705920
+Thread 6 has load 3705920
+Thread 7 has load 3705920
+Thread 8 has load 3705920
+Thread 9 has load 3705920
+Thread 10 has load 3705920
+Thread 11 has load 3705920
+Thread 12 has load 3705920
+Thread 13 has load 3705920
+Thread 14 has load 3705920
+Thread 15 has load 3705920
+Thread 16 has load 3705920
+Thread 17 has load 3705920
+Thread 18 has load 3705920
+Thread 19 has load 3705920
+Thread 20 has load 3705920
+Thread 21 has load 3705920
+Thread 22 has load 3705920
+Thread 23 has load 3705920
+Thread 24 has load 3705920
+Thread 25 has load 3705920
+Thread 26 has load 3705920
+Thread 27 has load 3705920
+Thread 28 has load 3705920
+Thread 29 has load 3705920
+Thread 30 has load 3705920
+Thread 31 has load 3705920
+Thread 32 has load 3705920
+Thread 33 has load 3705920
+Thread 34 has load 3705920
+Thread 35 has load 3705920
+Thread 36 has load 3705920
+Thread 37 has load 3705920
+Thread 38 has load 3705920
+Thread 39 has load 3705920
+Thread 40 has load 3705920
+Thread 41 has load 3705920
+Thread 42 has load 3705920
+Thread 43 has load 3705920
+Thread 44 has load 3705920
+Thread 45 has load 3705920
+Thread 46 has load 3705920
+Thread 47 has load 3705920
+Thread 48 has load 3705920
+Thread 49 has load 3705920
+Thread 50 has load 3705920
+Thread 51 has load 3705920
+Thread 52 has load 3705920
+Thread 53 has load 3705920
+Thread 54 has load 3705920
+Thread 55 has load 3705920
+Thread 56 has load 3705920
+Thread 57 has load 3705920
+Thread 58 has load 3705920
+Thread 59 has load 3705920
+Thread 60 has load 3705920
+Thread 61 has load 3705920
+Thread 62 has load 3705920
+Thread 63 has load 3705920
+Thread 64 has load 3705920
+Thread 65 has load 3705920
+Thread 66 has load 3705920
+Thread 67 has load 3705920
+Thread 68 has load 3705920
+Thread 69 has load 3705920
+Thread 70 has load 3705920
+Thread 71 has load 3705920
+Thread 72 has load 3705920
+Thread 73 has load 3705920
+Thread 74 has load 3705920
+Thread 75 has load 3705920
+Thread 76 has load 3705920
+Thread 77 has load 3705920
+Thread 78 has load 3705920
+Thread 79 has load 3705920
+Thread 80 has load 3705920
+Thread 81 has load 3705920
+Thread 82 has load 3705920
+Thread 83 has load 3705920
+Thread 84 has load 3705920
+Thread 85 has load 3705920
+Thread 86 has load 3705920
+Thread 87 has load 3705920
+Thread 88 has load 3705920
+Thread 89 has load 3705920
+Thread 90 has load 3705920
+Thread 91 has load 3705920
+Thread 92 has load 3705920
+Thread 93 has load 3705920
+Thread 94 has load 3705920
+Thread 95 has load 3705920
+Thread 96 has load 3705920
+Thread 97 has load 3705920
+Thread 98 has load 3705920
+Thread 99 has load 3705920
+Thread 100 has load 3705920
+Thread 101 has load 3705920
+Thread 102 has load 3705920
+Thread 103 has load 3705920
+Thread 104 has load 3705920
+Thread 105 has load 3705920
+Thread 106 has load 3705920
+Thread 107 has load 3705920
+Thread 108 has load 3705920
+Thread 109 has load 3705920
+Thread 110 has load 3705920
+Thread 111 has load 3705920
+Thread 112 has load 3705920
+Thread 113 has load 3705920
+Thread 114 has load 3705920
+Thread 115 has load 3705920
+Thread 116 has load 3705920
+Thread 117 has load 3705920
+Thread 118 has load 3705920
+Thread 119 has load 3705920
+Thread 120 has load 3705920
+Thread 121 has load 3705920
+Thread 122 has load 3705920
+Thread 123 has load 3705920
+Thread 124 has load 3705920
+Thread 125 has load 3705920
+Thread 126 has load 3705920
+Thread 127 has load 3705920
+Thread 128 has load 3705920
+Thread 129 has load 3705920
+Thread 130 has load 3705920
+Thread 131 has load 3705920
+Thread 132 has load 3705920
+Thread 133 has load 3705920
+Thread 134 has load 3705920
+Thread 135 has load 3705920
+Thread 136 has load 3705920
+Thread 137 has load 3705920
+Thread 138 has load 3705920
+Thread 139 has load 3705920
+Thread 140 has load 3705920
+Thread 141 has load 3705920
+Thread 142 has load 3705920
+Thread 143 has load 3705920
+Thread 144 has load 3705920
+Thread 145 has load 3705920
+Thread 146 has load 3705920
+Thread 147 has load 3705920
+Thread 148 has load 3705920
+Thread 149 has load 3705920
+Thread 150 has load 3705920
+Thread 151 has load 3705920
+Thread 152 has load 3705920
+Thread 153 has load 3705920
+Thread 154 has load 3705920
+Thread 155 has load 3705920
+Thread 156 has load 3705920
+Thread 157 has load 3705920
+Thread 158 has load 3705920
+Thread 159 has load 3705920
+Thread 160 has load 3705920
+Thread 161 has load 3705920
+Thread 162 has load 3705920
+Thread 163 has load 3705920
+Thread 164 has load 3705920
+Thread 165 has load 3705920
+Thread 166 has load 3705920
+Thread 167 has load 3705920
+Thread 168 has load 3705920
+Thread 169 has load 3705920
+Thread 170 has load 3705920
+Thread 171 has load 2223552
+Thread 172 is finished, elapsed time = 112μs 
+Thread 173 is finished, elapsed time = 189μs 
+Thread 174 is finished, elapsed time = 71μs 
+Thread 175 is finished, elapsed time = 41μs 
+Thread 180 is finished, elapsed time = 96μs 
+Thread 181 is finished, elapsed time = 123μs 
+Thread 177 is finished, elapsed time = 46μs 
+Thread 178 is finished, elapsed time = 3099μs 
+Thread 179 is finished, elapsed time = 4573μs 
+Thread 176 is finished, elapsed time = 3438μs 
+Thread 182 is finished, elapsed time = 5214μs 
+Thread 186 is finished, elapsed time = 64μs 
+Thread 187 is finished, elapsed time = 73μs 
+Thread 188 is finished, elapsed time = 124μs 
+Thread 183 is finished, elapsed time = 997μs 
+Thread 184 is finished, elapsed time = 2806μs 
+Thread 185 is finished, elapsed time = 4603μs 
+Thread 189 is finished, elapsed time = 5964μs 
+Thread 18 is finished, elapsed time = 1053ms 
+Thread 66 is finished, elapsed time = 1111ms 
+Thread 59 is finished, elapsed time = 1135ms 
+Thread 71 is finished, elapsed time = 1122ms 
+Thread 10 is finished, elapsed time = 1206ms 
+Thread 23 is finished, elapsed time = 1204ms 
+Thread 49 is finished, elapsed time = 1179ms 
+Thread 75 is finished, elapsed time = 1149ms 
+Thread 29 is finished, elapsed time = 1205ms 
+Thread 37 is finished, elapsed time = 1227ms 
+Thread 88 is finished, elapsed time = 1167ms 
+Thread 102 is finished, elapsed time = 1153ms 
+Thread 149 is finished, elapsed time = 1076ms 
+Thread 127 is finished, elapsed time = 1113ms 
+Thread 43 is finished, elapsed time = 1240ms 
+Thread 118 is finished, elapsed time = 1138ms 
+Thread 93 is finished, elapsed time = 1180ms 
+Thread 139 is finished, elapsed time = 1105ms 
+Thread 135 is finished, elapsed time = 1119ms 
+Thread 16 is finished, elapsed time = 1283ms 
+Thread 40 is finished, elapsed time = 1267ms 
+Thread 60 is finished, elapsed time = 1296ms 
+Thread 51 is finished, elapsed time = 1331ms 
+Thread 171 is finished, elapsed time = 1133ms 
+Thread 63 is finished, elapsed time = 1321ms 
+Thread 169 is finished, elapsed time = 1141ms 
+Thread 86 is finished, elapsed time = 1293ms 
+Thread 3 is finished, elapsed time = 1372ms 
+Thread 39 is finished, elapsed time = 1351ms 
+Thread 82 is finished, elapsed time = 1304ms 
+Thread 24 is finished, elapsed time = 1372ms 
+Thread 73 is finished, elapsed time = 1323ms 
+Thread 33 is finished, elapsed time = 1380ms 
+Thread 108 is finished, elapsed time = 1283ms 
+Thread 61 is finished, elapsed time = 1352ms 
+Thread 90 is finished, elapsed time = 1316ms 
+Thread 12 is finished, elapsed time = 1401ms 
+Thread 62 is finished, elapsed time = 1371ms 
+Thread 11 is finished, elapsed time = 1417ms 
+Thread 9 is finished, elapsed time = 1419ms 
+Thread 84 is finished, elapsed time = 1348ms 
+Thread 70 is finished, elapsed time = 1368ms 
+Thread 5 is finished, elapsed time = 1425ms 
+Thread 104 is finished, elapsed time = 1328ms 
+Thread 1 is finished, elapsed time = 1434ms 
+Thread 7 is finished, elapsed time = 1433ms 
+Thread 46 is finished, elapsed time = 1408ms 
+Thread 65 is finished, elapsed time = 1388ms 
+Thread 26 is finished, elapsed time = 1439ms 
+Thread 120 is finished, elapsed time = 1315ms 
+Thread 14 is finished, elapsed time = 1445ms 
+Thread 17 is finished, elapsed time = 1445ms 
+Thread 151 is finished, elapsed time = 1271ms 
+Thread 129 is finished, elapsed time = 1309ms 
+Thread 21 is finished, elapsed time = 1448ms 
+Thread 155 is finished, elapsed time = 1264ms 
+Thread 133 is finished, elapsed time = 1302ms 
+Thread 83 is finished, elapsed time = 1391ms 
+Thread 128 is finished, elapsed time = 1322ms 
+Thread 106 is finished, elapsed time = 1362ms 
+Thread 131 is finished, elapsed time = 1323ms 
+Thread 76 is finished, elapsed time = 1412ms 
+Thread 0 is finished, elapsed time = 1481ms 
+Thread 113 is finished, elapsed time = 1359ms 
+Thread 160 is finished, elapsed time = 1281ms 
+Thread 4 is finished, elapsed time = 1482ms 
+Thread 8 is finished, elapsed time = 1481ms 
+Thread 45 is finished, elapsed time = 1458ms 
+Thread 2 is finished, elapsed time = 1488ms 
+Thread 50 is finished, elapsed time = 1462ms 
+Thread 141 is finished, elapsed time = 1331ms 
+Thread 64 is finished, elapsed time = 1449ms 
+Thread 114 is finished, elapsed time = 1376ms 
+Thread 89 is finished, elapsed time = 1418ms 
+Thread 111 is finished, elapsed time = 1382ms 
+Thread 19 is finished, elapsed time = 1497ms 
+Thread 81 is finished, elapsed time = 1433ms 
+Thread 134 is finished, elapsed time = 1352ms 
+Thread 110 is finished, elapsed time = 1391ms 
+Thread 103 is finished, elapsed time = 1404ms 
+Thread 150 is finished, elapsed time = 1329ms 
+Thread 80 is finished, elapsed time = 1447ms 
+Thread 140 is finished, elapsed time = 1356ms 
+Thread 28 is finished, elapsed time = 1514ms 
+Thread 153 is finished, elapsed time = 1335ms 
+Thread 119 is finished, elapsed time = 1391ms 
+Thread 87 is finished, elapsed time = 1463ms 
+Thread 85 is finished, elapsed time = 1466ms 
+Thread 99 is finished, elapsed time = 1447ms 
+Thread 55 is finished, elapsed time = 1507ms 
+Thread 162 is finished, elapsed time = 1310ms 
+Thread 168 is finished, elapsed time = 1342ms 
+Thread 94 is finished, elapsed time = 1464ms 
+Thread 32 is finished, elapsed time = 1543ms 
+Thread 15 is finished, elapsed time = 1552ms 
+Thread 56 is finished, elapsed time = 1518ms 
+Thread 52 is finished, elapsed time = 1522ms 
+Thread 47 is finished, elapsed time = 1531ms 
+Thread 41 is finished, elapsed time = 1541ms 
+Thread 69 is finished, elapsed time = 1515ms 
+Thread 78 is finished, elapsed time = 1504ms 
+Thread 67 is finished, elapsed time = 1518ms 
+Thread 27 is finished, elapsed time = 1565ms 
+Thread 156 is finished, elapsed time = 1380ms 
+Thread 38 is finished, elapsed time = 1552ms 
+Thread 6 is finished, elapsed time = 1571ms 
+Thread 101 is finished, elapsed time = 1473ms 
+Thread 36 is finished, elapsed time = 1555ms 
+Thread 58 is finished, elapsed time = 1533ms 
+Thread 79 is finished, elapsed time = 1509ms 
+Thread 124 is finished, elapsed time = 1439ms 
+Thread 167 is finished, elapsed time = 1367ms 
+Thread 74 is finished, elapsed time = 1517ms 
+Thread 136 is finished, elapsed time = 1421ms 
+Thread 13 is finished, elapsed time = 1578ms 
+Thread 109 is finished, elapsed time = 1469ms 
+Thread 122 is finished, elapsed time = 1449ms 
+Thread 54 is finished, elapsed time = 1547ms 
+Thread 57 is finished, elapsed time = 1551ms 
+Thread 125 is finished, elapsed time = 1453ms 
+Thread 77 is finished, elapsed time = 1527ms 
+Thread 72 is finished, elapsed time = 1534ms 
+Thread 130 is finished, elapsed time = 1446ms 
+Thread 145 is finished, elapsed time = 1420ms 
+Thread 143 is finished, elapsed time = 1424ms 
+Thread 98 is finished, elapsed time = 1501ms 
+Thread 30 is finished, elapsed time = 1588ms 
+Thread 97 is finished, elapsed time = 1505ms 
+Thread 31 is finished, elapsed time = 1594ms 
+Thread 144 is finished, elapsed time = 1434ms 
+Thread 123 is finished, elapsed time = 1468ms 
+Thread 152 is finished, elapsed time = 1428ms 
+Thread 147 is finished, elapsed time = 1443ms 
+Thread 157 is finished, elapsed time = 1425ms 
+Thread 132 is finished, elapsed time = 1469ms 
+Thread 146 is finished, elapsed time = 1445ms 
+Thread 163 is finished, elapsed time = 1384ms 
+Thread 165 is finished, elapsed time = 1401ms 
+Thread 164 is finished, elapsed time = 1410ms 
+Thread 100 is finished, elapsed time = 1523ms 
+Thread 107 is finished, elapsed time = 1512ms 
+Thread 121 is finished, elapsed time = 1499ms 
+Thread 142 is finished, elapsed time = 1465ms 
+Thread 95 is finished, elapsed time = 1542ms 
+Thread 158 is finished, elapsed time = 1449ms 
+Thread 34 is finished, elapsed time = 1630ms 
+Thread 35 is finished, elapsed time = 1628ms 
+Thread 68 is finished, elapsed time = 1593ms 
+Thread 105 is finished, elapsed time = 1540ms 
+Thread 20 is finished, elapsed time = 1648ms 
+Thread 126 is finished, elapsed time = 1514ms 
+Thread 161 is finished, elapsed time = 1454ms 
+Thread 154 is finished, elapsed time = 1467ms 
+Thread 44 is finished, elapsed time = 1636ms 
+Thread 166 is finished, elapsed time = 1455ms 
+Thread 53 is finished, elapsed time = 1627ms 
+Thread 138 is finished, elapsed time = 1501ms 
+Thread 117 is finished, elapsed time = 1535ms 
+Thread 22 is finished, elapsed time = 1672ms 
+Thread 25 is finished, elapsed time = 1672ms 
+Thread 96 is finished, elapsed time = 1589ms 
+Thread 170 is finished, elapsed time = 1450ms 
+Thread 48 is finished, elapsed time = 1661ms 
+Thread 92 is finished, elapsed time = 1605ms 
+Thread 91 is finished, elapsed time = 1610ms 
+Thread 137 is finished, elapsed time = 1548ms 
+Thread 116 is finished, elapsed time = 1593ms 
+Thread 112 is finished, elapsed time = 1607ms 
+Thread 42 is finished, elapsed time = 1706ms 
+Thread 148 is finished, elapsed time = 1554ms 
+Thread 115 is finished, elapsed time = 1606ms 
+Thread 159 is finished, elapsed time = 1541ms 
+From comparison of palindromic and non-palindromic: 18606550856
+Thread 0 has load 361591608
+Thread 1 has load 361742990
+Thread 2 has load 361517899
+Thread 3 has load 361653585
+Thread 4 has load 361780406
+Thread 5 has load 361533645
+Thread 6 has load 361644642
+Thread 7 has load 361746702
+Thread 8 has load 361478095
+Thread 9 has load 361564203
+Thread 10 has load 361641302
+Thread 11 has load 361709365
+Thread 12 has load 361768365
+Thread 13 has load 361461606
+Thread 14 has load 361504430
+Thread 15 has load 361538119
+Thread 16 has load 361562646
+Thread 17 has load 361577984
+Thread 18 has load 361584106
+Thread 19 has load 361580985
+Thread 20 has load 361568594
+Thread 21 has load 361546906
+Thread 22 has load 361515894
+Thread 23 has load 361475531
+Thread 24 has load 361425790
+Thread 25 has load 361710935
+Thread 26 has load 361640254
+Thread 27 has load 361560105
+Thread 28 has load 361470461
+Thread 29 has load 361711359
+Thread 30 has load 361600515
+Thread 31 has load 361480086
+Thread 32 has load 361686904
+Thread 33 has load 361545075
+Thread 34 has load 361728276
+Thread 35 has load 361564907
+Thread 36 has load 361724337
+Thread 37 has load 361539288
+Thread 38 has load 361674793
+Thread 39 has load 361467924
+Thread 40 has load 361579350
+Thread 41 has load 361677576
+Thread 42 has load 361436607
+Thread 43 has load 361510512
+Thread 44 has load 361571085
+Thread 45 has load 361618278
+Thread 46 has load 361652043
+Thread 47 has load 361672332
+Thread 48 has load 361679097
+Thread 49 has load 361672290
+Thread 50 has load 361651863
+Thread 51 has load 361617768
+Thread 52 has load 361569957
+Thread 53 has load 361508382
+Thread 54 has load 361432995
+Thread 55 has load 361654940
+Thread 56 has load 361549458
+Thread 57 has load 361430008
+Thread 58 has load 361604229
+Thread 59 has load 361454346
+Thread 60 has load 361595667
+Thread 61 has load 361719258
+Thread 62 has load 361522095
+Thread 63 has load 361612394
+Thread 64 has load 361684753
+Thread 65 has load 361439750
+Thread 66 has load 361478425
+Thread 67 has load 361498950
+Thread 68 has load 361501250
+Thread 69 has load 361485250
+Thread 70 has load 361450875
+Thread 71 has load 361690062
+Thread 72 has load 361616231
+Thread 73 has load 361523785
+Thread 74 has load 361700922
+Thread 75 has load 361568508
+Thread 76 has load 361702992
+Thread 77 has load 361530258
+Thread 78 has load 361621715
+Thread 79 has load 361690240
+Thread 80 has load 361455080
+Thread 81 has load 361480000
+Thread 82 has load 361481682
+Thread 83 has load 361460018
+Thread 84 has load 361690345
+Thread 85 has load 361619034
+Thread 86 has load 361524035
+Thread 87 has load 361676718
+Thread 88 has load 361531350
+Thread 89 has load 361630753
+Thread 90 has load 361434522
+Thread 91 has load 361480125
+Thread 92 has load 361497273
+Thread 93 has load 361485819
+Thread 94 has load 361445616
+Thread 95 has load 361637124
+Thread 96 has load 361536201
+Thread 97 has load 361663884
+Thread 98 has load 361501581
+Thread 99 has load 361564749
+Thread 100 has load 361593981
+Thread 101 has load 361589085
+Thread 102 has load 361549869
+Thread 103 has load 361476141
+Thread 104 has load 361615515
+Thread 105 has load 361469262
+Thread 106 has load 361532768
+Thread 107 has load 361556530
+Thread 108 has load 361540305
+Thread 109 has load 361483850
+Thread 110 has load 361625814
+Thread 111 has load 361485135
+Thread 112 has load 361539316
+Thread 113 has load 361547657
+Thread 114 has load 361509858
+Thread 115 has load 361425619
+Thread 116 has load 361524273
+Thread 117 has load 361571150
+Thread 118 has load 361565887
+Thread 119 has load 361508121
+Thread 120 has load 361620735
+Thread 121 has load 361453625
+Thread 122 has load 361452874
+Thread 123 has load 361611525
+Thread 124 has load 361489155
+Thread 125 has load 361521950
+Thread 126 has load 361489420
+Thread 127 has load 361602665
+Thread 128 has load 361434535
+Thread 129 has load 361615845
+Thread 130 has load 361512888
+Thread 131 has load 361541342
+Thread 132 has load 361490641
+Thread 133 has load 361561205
+Thread 134 has load 361545849
+Thread 135 has load 361443805
+Thread 136 has load 361449933
+Thread 137 has load 361556043
+Thread 138 has load 361561875
+Thread 139 has load 361466457
+Thread 140 has load 361456908
+Thread 141 has load 361524534
+Thread 142 has load 361476240
+Thread 143 has load 361493060
+Thread 144 has load 361565820
+Thread 145 has load 361506910
+Thread 146 has load 361491060
+Thread 147 has load 361508568
+Thread 148 has load 361549497
+Thread 149 has load 361433751
+Thread 150 has load 361495004
+Thread 151 has load 361548441
+Thread 152 has load 361419682
+Thread 153 has load 361428738
+Thread 154 has load 361555209
+Thread 155 has load 361464816
+Thread 156 has load 361463100
+Thread 157 has load 361528125
+Thread 158 has load 361487709
+Thread 159 has load 361475336
+Thread 160 has load 361467099
+Thread 161 has load 361438291
+Thread 162 has load 361502909
+Thread 163 has load 361487140
+Thread 164 has load 361497603
+Thread 165 has load 361494800
+Thread 166 has load 361437658
+Thread 167 has load 361535294
+Thread 168 has load 361473948
+Thread 169 has load 361446577
+Thread 170 has load 361496675
+Thread 171 has load 361420723
+Thread 172 has load 361469150
+Thread 173 has load 361516513
+Thread 174 has load 361429929
+Thread 175 has load 361469921
+Thread 176 has load 361428214
+Thread 177 has load 361453335
+Thread 178 has load 361420388
+Thread 179 has load 361477453
+Thread 180 has load 361449869
+Thread 181 has load 361477336
+Thread 182 has load 361460642
+Thread 183 has load 361431268
+Thread 184 has load 361433982
+Thread 185 has load 361434648
+Thread 186 has load 361443852
+Thread 187 has load 361446750
+Thread 188 has load 361439492
+Thread 189 has load 338221036
+Thread 151 is finished, elapsed time = 1m 56s
+Thread 173 is finished, elapsed time = 1m 57s
+Thread 61 is finished, elapsed time = 1m 57s
+Thread 63 is finished, elapsed time = 1m 59s
+Thread 64 is finished, elapsed time = 2m 
+Thread 60 is finished, elapsed time = 2m 
+Thread 62 is finished, elapsed time = 2m 
+Thread 172 is finished, elapsed time = 2m 1s
+Thread 59 is finished, elapsed time = 2m 1s
+Thread 125 is finished, elapsed time = 2m 3s
+Thread 126 is finished, elapsed time = 2m 3s
+Thread 127 is finished, elapsed time = 2m 4s
+Thread 187 is finished, elapsed time = 2m 4s
+Thread 186 is finished, elapsed time = 2m 6s
+Thread 124 is finished, elapsed time = 2m 8s
+Thread 123 is finished, elapsed time = 2m 16s
+Thread 188 is finished, elapsed time = 2m 17s
+Thread 22 is finished, elapsed time = 2m 17s
+Thread 43 is finished, elapsed time = 2m 18s
+Thread 44 is finished, elapsed time = 2m 18s
+Thread 65 is finished, elapsed time = 2m 18s
+Thread 88 is finished, elapsed time = 2m 18s
+Thread 117 is finished, elapsed time = 2m 21s
+Thread 84 is finished, elapsed time = 2m 22s
+Thread 56 is finished, elapsed time = 2m 22s
+Thread 6 is finished, elapsed time = 2m 23s
+Thread 166 is finished, elapsed time = 2m 23s
+Thread 169 is finished, elapsed time = 2m 23s
+Thread 79 is finished, elapsed time = 2m 23s
+Thread 87 is finished, elapsed time = 2m 23s
+Thread 53 is finished, elapsed time = 2m 24s
+Thread 85 is finished, elapsed time = 2m 24s
+Thread 86 is finished, elapsed time = 2m 25s
+Thread 170 is finished, elapsed time = 2m 25s
+Thread 51 is finished, elapsed time = 2m 25s
+Thread 78 is finished, elapsed time = 2m 26s
+Thread 76 is finished, elapsed time = 2m 27s
+Thread 52 is finished, elapsed time = 2m 27s
+Thread 71 is finished, elapsed time = 2m 28s
+Thread 75 is finished, elapsed time = 2m 28s
+Thread 95 is finished, elapsed time = 2m 28s
+Thread 50 is finished, elapsed time = 2m 29s
+Thread 189 is finished, elapsed time = 2m 29s
+Thread 155 is finished, elapsed time = 2m 29s
+Thread 40 is finished, elapsed time = 2m 30s
+Thread 73 is finished, elapsed time = 2m 30s
+Thread 41 is finished, elapsed time = 2m 30s
+Thread 93 is finished, elapsed time = 2m 30s
+Thread 67 is finished, elapsed time = 2m 30s
+Thread 49 is finished, elapsed time = 2m 31s
+Thread 129 is finished, elapsed time = 2m 32s
+Thread 165 is finished, elapsed time = 2m 32s
+Thread 184 is finished, elapsed time = 2m 32s
+Thread 167 is finished, elapsed time = 2m 32s
+Thread 130 is finished, elapsed time = 2m 32s
+Thread 21 is finished, elapsed time = 2m 33s
+Thread 174 is finished, elapsed time = 2m 33s
+Thread 115 is finished, elapsed time = 2m 34s
+Thread 0 is finished, elapsed time = 2m 34s
+Thread 159 is finished, elapsed time = 2m 34s
+Thread 178 is finished, elapsed time = 2m 34s
+Thread 181 is finished, elapsed time = 2m 34s
+Thread 118 is finished, elapsed time = 2m 35s
+Thread 80 is finished, elapsed time = 2m 35s
+Thread 77 is finished, elapsed time = 2m 35s
+Thread 160 is finished, elapsed time = 2m 35s
+Thread 120 is finished, elapsed time = 2m 35s
+Thread 141 is finished, elapsed time = 2m 36s
+Thread 171 is finished, elapsed time = 2m 36s
+Thread 177 is finished, elapsed time = 2m 36s
+Thread 54 is finished, elapsed time = 2m 36s
+Thread 157 is finished, elapsed time = 2m 36s
+Thread 163 is finished, elapsed time = 2m 37s
+Thread 45 is finished, elapsed time = 2m 37s
+Thread 142 is finished, elapsed time = 2m 37s
+Thread 180 is finished, elapsed time = 2m 37s
+Thread 175 is finished, elapsed time = 2m 37s
+Thread 19 is finished, elapsed time = 2m 37s
+Thread 74 is finished, elapsed time = 2m 37s
+Thread 58 is finished, elapsed time = 2m 37s
+Thread 23 is finished, elapsed time = 2m 38s
+Thread 91 is finished, elapsed time = 2m 38s
+Thread 7 is finished, elapsed time = 2m 38s
+Thread 116 is finished, elapsed time = 2m 38s
+Thread 153 is finished, elapsed time = 2m 38s
+Thread 89 is finished, elapsed time = 2m 38s
+Thread 46 is finished, elapsed time = 2m 38s
+Thread 158 is finished, elapsed time = 2m 39s
+Thread 97 is finished, elapsed time = 2m 39s
+Thread 168 is finished, elapsed time = 2m 39s
+Thread 131 is finished, elapsed time = 2m 39s
+Thread 66 is finished, elapsed time = 2m 39s
+Thread 179 is finished, elapsed time = 2m 39s
+Thread 183 is finished, elapsed time = 2m 39s
+Thread 20 is finished, elapsed time = 2m 40s
+Thread 48 is finished, elapsed time = 2m 40s
+Thread 47 is finished, elapsed time = 2m 40s
+Thread 114 is finished, elapsed time = 2m 40s
+Thread 90 is finished, elapsed time = 2m 40s
+Thread 94 is finished, elapsed time = 2m 40s
+Thread 185 is finished, elapsed time = 2m 40s
+Thread 182 is finished, elapsed time = 2m 41s
+Thread 162 is finished, elapsed time = 2m 41s
+Thread 134 is finished, elapsed time = 2m 42s
+Thread 100 is finished, elapsed time = 2m 42s
+Thread 105 is finished, elapsed time = 2m 42s
+Thread 133 is finished, elapsed time = 2m 42s
+Thread 137 is finished, elapsed time = 2m 42s
+Thread 113 is finished, elapsed time = 2m 43s
+Thread 164 is finished, elapsed time = 2m 43s
+Thread 36 is finished, elapsed time = 2m 43s
+Thread 103 is finished, elapsed time = 2m 43s
+Thread 81 is finished, elapsed time = 2m 43s
+Thread 156 is finished, elapsed time = 2m 43s
+Thread 119 is finished, elapsed time = 2m 43s
+Thread 72 is finished, elapsed time = 2m 43s
+Thread 70 is finished, elapsed time = 2m 43s
+Thread 139 is finished, elapsed time = 2m 43s
+Thread 5 is finished, elapsed time = 2m 44s
+Thread 29 is finished, elapsed time = 2m 44s
+Thread 92 is finished, elapsed time = 2m 44s
+Thread 82 is finished, elapsed time = 2m 44s
+Thread 161 is finished, elapsed time = 2m 44s
+Thread 104 is finished, elapsed time = 2m 44s
+Thread 150 is finished, elapsed time = 2m 44s
+Thread 140 is finished, elapsed time = 2m 45s
+Thread 132 is finished, elapsed time = 2m 45s
+Thread 99 is finished, elapsed time = 2m 45s
+Thread 98 is finished, elapsed time = 2m 45s
+Thread 17 is finished, elapsed time = 2m 45s
+Thread 176 is finished, elapsed time = 2m 45s
+Thread 149 is finished, elapsed time = 2m 46s
+Thread 122 is finished, elapsed time = 2m 46s
+Thread 38 is finished, elapsed time = 2m 46s
+Thread 128 is finished, elapsed time = 2m 46s
+Thread 24 is finished, elapsed time = 2m 46s
+Thread 111 is finished, elapsed time = 2m 46s
+Thread 112 is finished, elapsed time = 2m 46s
+Thread 135 is finished, elapsed time = 2m 46s
+Thread 154 is finished, elapsed time = 2m 46s
+Thread 109 is finished, elapsed time = 2m 47s
+Thread 83 is finished, elapsed time = 2m 47s
+Thread 102 is finished, elapsed time = 2m 47s
+Thread 136 is finished, elapsed time = 2m 47s
+Thread 69 is finished, elapsed time = 2m 47s
+Thread 10 is finished, elapsed time = 2m 47s
+Thread 144 is finished, elapsed time = 2m 47s
+Thread 121 is finished, elapsed time = 2m 47s
+Thread 138 is finished, elapsed time = 2m 48s
+Thread 9 is finished, elapsed time = 2m 48s
+Thread 13 is finished, elapsed time = 2m 48s
+Thread 8 is finished, elapsed time = 2m 48s
+Thread 30 is finished, elapsed time = 2m 48s
+Thread 145 is finished, elapsed time = 2m 48s
+Thread 18 is finished, elapsed time = 2m 48s
+Thread 152 is finished, elapsed time = 2m 48s
+Thread 147 is finished, elapsed time = 2m 49s
+Thread 42 is finished, elapsed time = 2m 49s
+Thread 35 is finished, elapsed time = 2m 49s
+Thread 96 is finished, elapsed time = 2m 49s
+Thread 4 is finished, elapsed time = 2m 49s
+Thread 108 is finished, elapsed time = 2m 49s
+Thread 55 is finished, elapsed time = 2m 50s
+Thread 146 is finished, elapsed time = 2m 50s
+Thread 2 is finished, elapsed time = 2m 50s
+Thread 39 is finished, elapsed time = 2m 50s
+Thread 16 is finished, elapsed time = 2m 51s
+Thread 37 is finished, elapsed time = 2m 51s
+Thread 106 is finished, elapsed time = 2m 51s
+Thread 26 is finished, elapsed time = 2m 51s
+Thread 3 is finished, elapsed time = 2m 51s
+Thread 148 is finished, elapsed time = 2m 51s
+Thread 12 is finished, elapsed time = 2m 51s
+Thread 107 is finished, elapsed time = 2m 51s
+Thread 25 is finished, elapsed time = 2m 52s
+Thread 101 is finished, elapsed time = 2m 52s
+Thread 110 is finished, elapsed time = 2m 52s
+Thread 143 is finished, elapsed time = 2m 52s
+Thread 1 is finished, elapsed time = 2m 53s
+Thread 34 is finished, elapsed time = 2m 53s
+Thread 68 is finished, elapsed time = 2m 53s
+Thread 57 is finished, elapsed time = 2m 53s
+Thread 32 is finished, elapsed time = 2m 53s
+Thread 11 is finished, elapsed time = 2m 54s
+Thread 27 is finished, elapsed time = 2m 54s
+Thread 33 is finished, elapsed time = 2m 54s
+Thread 31 is finished, elapsed time = 2m 54s
+Thread 15 is finished, elapsed time = 2m 54s
+Thread 14 is finished, elapsed time = 2m 55s
+Thread 28 is finished, elapsed time = 2m 55s
+From comparison of non-palindromics and their reverses: 1882917806900
+Total elapsed time = 6m 20s
+3938480377496

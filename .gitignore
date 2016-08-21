@@ -1,2 +1,8 @@
 jones
-results
+motzkin
+kauffman
+jones.txt
+motzkin.txt
+kauffman.txt
+*.plist
+src/Dyck/*

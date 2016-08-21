@@ -1,0 +1,15 @@
+for i in {1..30}
+do
+  ./jones $i -v >> log/sardonis/jones`printf %02d $i`-190-thrds.log
+done
+
+for i in {1..30}
+do
+  ./kauffman $i -v >> log/sardonis/kauffman`printf %02d $i`-190-thrds.log
+done
+
+for i in {2..15}
+do
+  ./motzkin $i -v >> log/sardonis/motzkin`printf %02d $i`-190-thrds.log
+done
+
