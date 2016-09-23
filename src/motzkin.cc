@@ -534,6 +534,9 @@ int main(int argc, char* argv[]) {
 
   if (deg == 0) {
     print_help_and_exit(argv[0]);
+  } else if (deg == 1) {
+    std::cout << 2 << std::endl;
+    exit(0);
   }
 
   index_t n;
