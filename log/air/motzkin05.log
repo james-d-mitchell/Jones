@@ -1,0 +1,18 @@
+Counting even rank Motzkin idempotents . . .
+Number of weight 0 Motzkin words is 21
+Processing Motzkin words, elapsed time = 126μs 
+Motzkin words use ~ 225 bytes
+Using 2 / 4 threads
+Thread 1 is finished, elapsed time = 18μs 
+Thread 0 is finished, elapsed time = 74μs 
+There are 539 even rank idempotents, elapsed time = 490μs 
+Counting odd rank Motzkin idempotents . . .
+Number of weight 1 Motzkin words is 30
+Processing Motzkin words, elapsed time = 30μs 
+Motzkin words use ~ 374 bytes
+Using 2 / 4 threads
+Thread 0 is finished, elapsed time = 15μs 
+Thread 1 is finished, elapsed time = 44μs 
+There are 295 odd rank idempotents, elapsed time = 218μs 
+Total elapsed time = 977μs 
+834

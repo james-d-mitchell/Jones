@@ -1,0 +1,8 @@
+Number of Dyck words is 4862
+Processing Dyck words, elapsed time = 2524μs 
+Dyck words use ~ 192.080078 KB
+Using 2 / 4 threads
+Thread 1 is finished, elapsed time = 169ms 
+Thread 0 is finished, elapsed time = 195ms 
+Total elapsed time = 198ms 
+46455770

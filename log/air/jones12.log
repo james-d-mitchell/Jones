@@ -1,0 +1,28 @@
+Number of Dyck words is 132
+Processing Dyck words, elapsed time = 210μs 
+Dyck words use ~ 3.383789 KB
+Using 2 / 4 threads
+Number of palindromic Dyck words is 20
+Number of non-palindromic Dyck words is 56
+Thread 0 has load 99
+Thread 1 has load 91
+Thread 0 is finished, elapsed time = 19μs 
+Thread 1 is finished, elapsed time = 63μs 
+From comparison of palindromic and palindromic: 2262
+Thread 0 has load 799
+Thread 1 has load 741
+Thread 1 is finished, elapsed time = 41μs 
+Thread 0 is finished, elapsed time = 79μs 
+From comparison of non-palindromic and non-palindromic: 35124
+Thread 0 has load 560
+Thread 1 has load 560
+Thread 0 is finished, elapsed time = 41μs 
+Thread 1 is finished, elapsed time = 68μs 
+From comparison of palindromic and non-palindromic: 25320
+Thread 0 has load 816
+Thread 1 has load 780
+Thread 1 is finished, elapsed time = 39μs 
+Thread 0 is finished, elapsed time = 79μs 
+From comparison of non-palindromics and their reverses: 33432
+Total elapsed time = 1133μs 
+96138
