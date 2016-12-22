@@ -381,7 +381,7 @@ void count_even_rank(size_t                      thread_id,
           }
           pos = MOTZKIN_WORDS[i][pos];
         }
-        if (!stop) {
+        if (*it == pos) {
           cnt *= (nr_i * nr_j + 1);
         }
       } while (max < MOTZKIN_OUTER[j].back());
