@@ -3,7 +3,7 @@ Counting idempotents in a monoid of partitions
 
 The code in this project can be used to count idempotents in the Jones, Motzkin, and Kauffman monoids, and is based on [Idempotent statistics of the Motzkin and Jones monoids](http://arxiv.org/abs/1507.04838) by Igor Dolinka, James East, Athanasios Evangelou, Desmond FitzGerald, Nicholas Ham, James Hyde, and Nicholas Loughlin. 
 
-###Installation
+### Installation
 In your terminal of choice, perform the following steps to install this project.
 
 0. Clone this repository by doing 
