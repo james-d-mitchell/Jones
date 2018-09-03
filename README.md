@@ -1,7 +1,7 @@
-Counting idempotents in a monoid of partitions
+Enumeration of idempotents in planar diagram monoids
 =====
 
-The code in this project can be used to count idempotents in the Jones, Motzkin, and Kauffman monoids, and is based on [Idempotent statistics of the Motzkin and Jones monoids](http://arxiv.org/abs/1507.04838) by Igor Dolinka, James East, Athanasios Evangelou, Desmond FitzGerald, Nicholas Ham, James Hyde, and Nicholas Loughlin. 
+The code in this project can be used to count idempotents in the Jones, Motzkin, and Kauffman monoids, and is based on [Enumeration of idempotents in planar diagram monoids](http://arxiv.org/abs/1507.04838) by Igor Dolinka, James East, Athanasios Evangelou, Desmond FitzGerald, Nicholas Ham, James Hyde, Nicholas Loughlin, and James Mitchell. 
 
 ### Installation
 In your terminal of choice, perform the following steps to install this project.
@@ -45,7 +45,7 @@ maximum number of threads which your hardware supports.
 
 Enjoy!
 
-Copyright (C) 2016 James D. Mitchell
+Copyright (C) 2016-18 James D. Mitchell
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
